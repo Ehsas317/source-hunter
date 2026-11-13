@@ -1,0 +1,361 @@
+{
+  "claim": "Humans only use 10% of their brain",
+  "claim_keywords": [
+    "humans",
+    "use",
+    "brain"
+  ],
+  "claim_numbers": [
+    "10%"
+  ],
+  "research_run_id": "01a1d5c1-1e59-7014-bb1e-353e92e4bcda",
+  "research_status": "completed",
+  "report_markers": [
+    {
+      "marker": "earliest documented",
+      "sentence": "The **earliest documented appearance of the specific \"10 percent\" figure** applied to brain power appears to be a **self-help advertisement in the 1929 *World Almanac***, which read:"
+    }
+  ],
+  "chain": [
+    {
+      "url": "https://www.sociostudies.org/upload/socionauki.ru/journal/seh/2024_2/002_Anum.pdf",
+      "link": "live",
+      "wording": "changed",
+      "step": "changed",
+      "quoted": [
+        "there is no chance that humans use only 10 per cent of their brain.",
+        "and claimed that the average person uses only 10 % of their brain.",
+        "potential/brain, while most of it is unused and never developed."
+      ],
+      "title": "Microsoft Word - 002 Anum et al FIN",
+      "published_date": null,
+      "final_url": "https://www.sociostudies.org/upload/socionauki.ru/journal/seh/2024_2/002_Anum.pdf"
+    },
+    {
+      "url": "https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/",
+      "link": "live",
+      "wording": "changed",
+      "step": "changed",
+      "quoted": [
+        "Movies like \u201cLimitless\u201d and \u201cLucy\u201d play on the notion that humans use only 10 percent of their brains\u2014and those who unlock a higher percentage wield powers like infinite memory or telekinesis.",
+        "In 1907, William James, a founder of American psychology, suggested in his book \u201cThe Energies of Men\u201d that \u201cwe are making use of only a small part of our possible mental and physical resources.\u201d This influential work likely sparked the idea that humans access a mere fraction of the brain\u2014setting this common misconception ablaze.",
+        "If we indeed use our entire brain, can humans tease out any problem?"
+      ],
+      "title": "Do we only use 10 percent of our brain? - MIT McGovern Institute",
+      "published_date": "2024-01-26T16:00:38+00:00",
+      "final_url": "https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/"
+    },
+    {
+      "url": "https://www.psychologytoday.com/us/blog/modern-minds/201803/why-do-we-only-use-10-percent-of-the-brain",
+      "link": "live",
+      "wording": "changed",
+      "step": "changed",
+      "quoted": [
+        "# Why Do We Only Use 10 Percent of the Brain?",
+        "You have never heard of anyone with that much brain missing, because pretty much all areas of the brain are capable of electrical and chemical activity.",
+        "Everyone makes use of the *entire* brain."
+      ],
+      "title": "Why Do We Only Use 10 Percent of the Brain?",
+      "published_date": "2018-03-28T11:50:46-04:00",
+      "final_url": "https://www.psychologytoday.com/us/blog/modern-minds/201803/why-do-we-only-use-10-percent-of-the-brain"
+    },
+    {
+      "url": "https://dana.org/resources/the-ten-percent-brain-myth/",
+      "link": "live",
+      "wording": "matches",
+      "step": "matches",
+      "quoted": [
+        "Have you heard that we only use 10% of our brains?",
+        "We use 100% of our brains, and they\u2019re active even when we\u2019re asleep.",
+        "# The Ten Percent Brain Myth"
+      ],
+      "title": "The Ten Percent Brain Myth",
+      "published_date": "2023-09-13T13:09:40+00:00",
+      "final_url": "https://dana.org/resources/the-ten-percent-brain-myth/"
+    },
+    {
+      "url": "https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/",
+      "link": "live",
+      "wording": "matches",
+      "step": "matches",
+      "quoted": [
+        "The notion that we only use 10% of our brains is widely believed.",
+        "The truth is that essentially we use all of our brains all of the time (though not all neurons are firing at the same time).",
+        "There\u2019s simply no way that such a costly organ could be so underused- if that were the case, homo sapiens would never have evolved brains anywhere near the size we have, let alone dominated the earth as a result of our trademark intelligence."
+      ],
+      "title": "We only use 10% of our brains | Centre for Educational Neuroscience",
+      "published_date": null,
+      "final_url": "https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth",
+      "link": "live",
+      "wording": "matches",
+      "step": "matches",
+      "quoted": [
+        "The **ten-percent-of-the-brain myth** states that humans generally use only one-tenth (or some other small fraction) of their brains.",
+        "Changes in grey and white matter following new experiences and learning have been shown, but it has not yet been proven what the changes are.[2] The popular notion that large parts of the brain remain unused, and could subsequently be \"activated\", rests in folklore and not science.",
+        "memory, consciousness\u2014the physiology of brain mapping suggests that all areas of the brain have a function and that they are used nearly all the time.[3][4]"
+      ],
+      "title": "Ten-percent-of-the-brain myth - Wikipedia",
+      "published_date": "2008-11-14T19:28:41Z",
+      "final_url": "https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth"
+    },
+    {
+      "url": "https://www.snopes.com/fact-check/the-ten-percent-myth/",
+      "link": "live",
+      "wording": "matches",
+      "step": "matches",
+      "quoted": [
+        "**A long-held rumor claims humans only use 10% of their brains.**",
+        "Humans only use 10% of their brains.",
+        "# Do We Only Use 10% of our Brains?"
+      ],
+      "title": "Do We Only Use 10% of our Brains?",
+      "published_date": "2000-02-08 12:00:00",
+      "final_url": "https://www.snopes.com/fact-check/the-ten-percent-myth/"
+    },
+    {
+      "url": "https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/",
+      "link": "live",
+      "wording": "changed",
+      "step": "changed",
+      "quoted": [
+        "# Do People Only Use 10 Percent of Their Brains?",
+        "Adding to that mystery is the contention that humans \"only\" employ 10 percent of their brain.",
+        "\"It turns out though, that we use virtually every part of the brain, and that [most of] the brain is active almost all the time,\" Gordon adds."
+      ],
+      "title": "Do People Only Use 10 Percent of Their Brains?",
+      "published_date": "2008-02-07T15:45:00-05:00",
+      "final_url": "https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/"
+    },
+    {
+      "url": "https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://faculty.washington.edu/chudler/tenper.html",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://gizmodo.com/where-the-10-percent-of-our-brains-myth-comes-from-a-1598507369",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://theconversation.com/do-we-really-only-use-10-of-our-brain-30045",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.bps.org.uk/psychologist/great-myths-brain-we-only-use-10-cent",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://scottlilienfeld.com/wp-content/uploads/2021/01/50-Great-Myths-of-Popular-Psychology-Shattering-Widespread-Misconceptions-about-Human-Behavior-by-Scott-O.-Lilienfeld-Steven-Jay-Lynn-John-Ruscio-Barry-L.-Beyerstein-z-lib.org_.pdf",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.dongascience.com/en/news/8687",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.history.com/articles/here-are-6-things-albert-einstein-never-said",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://uamshealth.com/medical-myths/do-people-only-use-10-percent-of-our-brains/",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.oddlyclear.com/10-percent-brain-myth/",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://freebrain.net/where-did-the-10-brain-myth-come-from-origin/",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.sidis.net/borisabout.htm",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.scientificamerican.com/article/do-we-really-use-only-10/",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.theatlantic.com/technology/archive/2014/07/you-already-use-way-way-more-than-10-percent-of-your-brain/374520/",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://thegadabouttown.com/2016/10/12/fulfilling-promise/",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://thegadabouttown.com/2015/01/15/how-to-win-friends-and-influence-everybody/",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://dafaleph.com/home/2017/3/9/lights-of-culture-limitless",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://en.wikisource.org/wiki/The_Energies_of_Men",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://digicoll.lib.berkeley.edu/record/205985/files/b20789995_C021064883.pdf",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://psychclassics.yorku.ca/James/energies.htm",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.scientificamerican.com/article/uncovering-brainscams/",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.nationalgeographic.com/science/article/10-myth-1-fact",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://icrrd.com/public/media/31-10-2020-083612How%20to%20Win%20Friends%20and%20Influence%20People%20-%20Dale%20Carnegie.pdf",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.themarginalian.org/2015/06/15/william-james-the-energies-of-men-second-wind/",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://dana.org/article/when-the-myth-is-the-message-neuromyths-and-education/",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://classicsofsciencefiction.com/2021/09/18/desertion-by-clifford-d-simak/",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    }
+  ],
+  "earliest_verifiable_source": {
+    "url": "https://www.snopes.com/fact-check/the-ten-percent-myth/",
+    "link": "live",
+    "wording": "matches",
+    "step": "matches",
+    "quoted": [
+      "**A long-held rumor claims humans only use 10% of their brains.**",
+      "Humans only use 10% of their brains.",
+      "# Do We Only Use 10% of our Brains?"
+    ],
+    "title": "Do We Only Use 10% of our Brains?",
+    "published_date": "2000-02-08 12:00:00",
+    "final_url": "https://www.snopes.com/fact-check/the-ten-percent-myth/"
+  },
+  "trace_verdict": "traced",
+  "steps_shown": 34,
+  "citations_total": 34,
+  "report": "# Tracing the \"Humans Only Use 10% of Their Brain\" Myth to Its Origins\n\n## Executive Summary\n\nThe claim that humans use only 10% of their brains is a neuromyth with **no single identifiable point of origin**. The most authoritative investigators \u2014 including neuropsychologist Barry Beyerstein of Simon Fraser University \u2014 found no \"smoking gun\" [21]. Instead, the myth assembled itself across roughly five decades (c. 1890s\u20131936) from at least four distinguishable streams: (1) William James's late-19th/early-20th-century writings on untapped *mental potential* (not brain anatomy); (2) early neuroscientists' inadvertent language about \"silent cortex\"; (3) a 1929 self-help advertisement that attached the first confirmed numerical \"10 percent\" to brain power; and (4) the explosive popularization by journalist Lowell Thomas in his 1936 foreword to Dale Carnegie's *How to Win Friends and Influence People*, which falsely attributed a precise 10% figure to William James and reached tens of millions of readers. The Einstein attribution is almost certainly apocryphal. The claim is scientifically false: the entire brain is active across any given day, it consumes ~20% of the body's energy while comprising only ~2% of its mass, and damage to virtually any brain region produces measurable deficits [2][6][13].\n\n---\n\n## Step-by-Step Genealogy of the Myth\n\n### STEP 1 \u2014 The Deepest Root: 19th-Century Neurophysiology and Early \"Reserve\" Thinking (1840s\u20131890s)\n\n**Pierre Flourens** (French neurophysiologist, c. 1842) conducted ablation experiments on pigeons, chickens, and frogs, removing substantial portions of brain tissue and observing that basic function seemed preserved. He extended these results to humans, suggesting that some brain areas could be removed without affecting mental function [1]. This created a scientific-looking template for the idea that large amounts of the brain are functionally redundant \u2014 though the methods were crude and the animal subjects did not reliably model human cognition [1].\n\n**Charles-\u00c9douard Brown-S\u00e9quard** (1876) wrote about the brain's power, stating that \"rarely someone so well developed, perhaps no one fully developed\" \u2014 another early hint that most people's brains fall short of their potential [1].\n\n**Boris Sidis**, a Harvard psychologist working alongside William James in the 1890s, formulated a **\"law of reserve energy\"** in his *Studies in Psychopathology*, arguing that people harbor large reservoirs of untapped psychological energy [20]. James wrote the preface to Sidis's 1897/1898 book *The Psychology of Suggestion* and praised its originality [20]. Sidis and James are reported to have even tested reserve-energy theories in raising Sidis's son, the child prodigy William James Sidis [6][34].\n\n> **Confidence note:** The Flourens and Brown-S\u00e9quard threads are reported by secondary sources [1] and not independently verified in primary texts in the evidence set. They are best treated as plausible contributing context, not confirmed proximate causes.\n\n---\n\n### STEP 2 \u2014 The Most-Cited \"Origin\": William James on Mental Potential (1906\u20131908)\n\nThis is the most heavily cited proto-source, but it is also the most misunderstood.\n\n**What James actually wrote:** His landmark address, delivered before the American Philosophical Association at Columbia University in **December 1906** and published in January 1907 in the *Philosophical Review* under the title **\"The Energies of Men\"** [32], contains the following passage:\n\n> *\"As a rule men habitually use only a small part of the powers which they actually possess and which they might use under appropriate conditions.\"* [26]\n\n> *\"We are making use of only a small part of our possible mental and physical resources.\"* [28]\n\nThe same essay describes \"stored-up reserves of energy that are ordinarily not called upon, but that may be called upon\" [25] and states that \"the human individual thus lives usually far within his limits\" [26]. A book version appeared as part of *Memories and Studies* (1911), edited posthumously by Henry James Jr. [27].\n\n**What James did NOT write:** He never cited a \"10 percent\" figure. He never referenced a percentage of the physical brain. Beyerstein, who searched James's writings exhaustively, \"was never able to find an exact percentage mentioned, and James always talked in terms of one's undeveloped *potential*, apparently never relating this to a specific amount of gray matter engaged\" [21]. The Association for Psychological Science concurs: \"James is saying we often don't feel fully energized, both physically and mentally. He in no way claims that we only use a small portion of our brain\" [9].\n\nJames's language was about **psychological energy, habit, and motivation** \u2014 not neuroscience or neuroanatomy. The essay is explicitly framed around fatigue thresholds, \"second wind,\" and the gap between typical performance and maximum capacity [28][32]. It is the metaphor of *spare industrial capacity*, not an anatomical census of inactive neurons [18].\n\n**How the misquotation happened:** A generation of \"positive thinking\" writers who followed James were less careful. As Beyerstein summarized: *\"gradually '10 percent of our capacity' morphed into '10 percent of our brain'\"* [21]. The drift was from a qualitative psychological observation to a false anatomical claim.\n\n**Also cited in Carnegie's own text:** Dale Carnegie's book itself quotes James as saying \"we are making use of only a small part of our physical and mental resources\" in body text \u2014 accurately rendered without a percentage [31]. The damaging 10% figure does not appear in Carnegie's main text, only in the Thomas foreword.\n\n---\n\n### STEP 3 \u2014 The Earliest Confirmed Print Citation with \"10 Percent\": The 1929 World Almanac Advertisement\n\nThe **earliest documented appearance of the specific \"10 percent\" figure** applied to brain power appears to be a **self-help advertisement in the 1929 *World Almanac***, which read:\n\n> *\"There is NO LIMIT to what the human brain can accomplish. Scientists and psychologists tell us we use only about TEN PERCENT of our brain power.\"* [6][34]\n\nThis is documented by Barry Beyerstein's research and cited in the book *Mind Myths* (Sergio Della Sala, ed.), referenced by Wikipedia [6]. The phrasing attributes the claim vaguely to unnamed \"scientists and psychologists\" \u2014 there is no traceable original scientific source behind it.\n\n**This is the earliest reliably documented print use of the \"10 percent of brain power\" formulation.** The advertisement predates the Carnegie/Thomas book by seven years and is itself likely downstream of the mangled James tradition, combined with the self-help culture of the 1920s [6][34].\n\n**Science fiction amplification (1932):** John W. Campbell, science fiction writer and editor, made the \"10 percent\" idea a personal \"pet idea,\" writing in a **1932 short story** that *\"no man in all history ever used even half of the thinking part of his brain\"* [6][34]. Campbell later promoted related ideas (psychic human potential, psionics) through his editorial platform at *Astounding Science Fiction* in the 1950s and 1960s [6].\n\n---\n\n### STEP 4 \u2014 The Great Popularizer: Lowell Thomas's 1936 Foreword to Carnegie's Book\n\nThe single most consequential propagation event is well-documented and can be quoted precisely.\n\n**Lowell Thomas**, a famous American broadcaster and journalist, wrote the foreword (titled \"A Shortcut to Distinction\") to Dale Carnegie's **1936/1937 book *How to Win Friends and Influence People*** [31]. In that foreword, Thomas wrote:\n\n> *\"Professor William James of Harvard used to say that the average man develops only ten percent of his latent mental ability.\"* [6][11][21][22][25][34]\n\nThis sentence did several things simultaneously and consequentially:\n- It **attached a specific number** (10%) where James had never used one [13][21]\n- It **attributed the number to William James** by name, lending it Harvard authority [23][24]\n- It **shifted the claim** from \"mental potential\" to \"mental ability\" \u2014 closer to brain function\n- It embedded this claim in one of the **best-selling books of the 20th century**, which sold tens of millions of copies and remained continuously in print for nearly 80 years [23][24]\n\nBarry Beyerstein, writing in *Scientific American*, called this \"undoubtedly, the biggest boost for the self-help entrepreneurs\" [21]. The BPS (British Psychological Society) similarly identified this as the moment the precise 10% figure became attached to James's legacy [13].\n\n**Did Thomas explicitly say \"10% of the brain\"?** The foreword says \"10 percent of his *latent mental ability*\" \u2014 not anatomically \"10% of the brain.\" However, within the self-help and popular science discourse of the era, this phrase was rapidly reinterpreted as a brain-use figure, particularly once combined with the \"silent cortex\" scientific language circulating at the same time (see Step 5 below) [18][21].\n\n**Carnegie's own text** quotes James more faithfully without the percentage, stating only \"we are making use of only a small part of our physical and mental resources\" [31] \u2014 it was Thomas's foreword, not Carnegie's writing itself, that introduced the specific 10% figure.\n\n---\n\n### STEP 5 \u2014 The Scientific Pseudo-Legitimation: \"Silent Cortex\" and Karl Lashley (1920s\u20131930s)\n\nTwo genuine scientific developments gave the myth an appearance of neurological grounding:\n\n**Wilder Penfield's cortical mapping** (1930s): Penfield, a neurosurgeon at the Montreal Neurological Institute, mapped the brain by electrically stimulating areas in awake patients. He found that stimulating some cortical areas produced no observable response \u2014 no muscle twitch, no reported sensation. He correctly described these as producing no visible effect. This language was **misread by popular writers** as meaning those areas \"did nothing\" and were \"unused\" [3][13][21]. The regions Penfield found \"silent\" to motor/sensory stimulation are now understood as the **association cortex** \u2014 the seat of the brain's most sophisticated functions, including decision-making, language, and social cognition [13][29]. As reported by the BPS: \"Today these regions are known as 'association cortex' and they are involved in our most sophisticated mental functions\" [13].\n\n**Karl Lashley's rat ablation experiments** (1920s\u20131930s): Lashley removed large sections of cerebral cortex in rats trained to navigate mazes and found that the animals could still perform the tasks \u2014 though with impairment proportional to the amount of tissue removed. From this he proposed two principles: **equipotentiality** (different brain areas can carry out the same function) and **mass action** (the brain acts as a whole in learning) [12]. The popular \u2014 and incorrect \u2014 interpretation was that because rats could still function after losing large amounts of cortex, most of the cortex must be unused [10][11][12]. The correct interpretation is that the rat brain exhibits substantial plasticity, not that most of it is inactive.\n\n---\n\n### STEP 6 \u2014 The Einstein Attribution (Unverified; Almost Certainly Apocryphal)\n\nA widely circulated version of the myth claims that **Albert Einstein** attributed his own genius to using more than 10% of his brain. This attribution is **not documented anywhere**:\n\n- A careful search by researchers at the **Albert Einstein Archives** found no record of Einstein making such a statement [13][21]\n- Alice Calaprice of Princeton University, who compiled *The Ultimate Quotable Einstein*, similarly could not locate it [15]\n- The MIT McGovern Institute states flatly: \"No such quote has been documented\" [2]\n\nBeyerstein concluded the Einstein attribution is \"probably yet another apocryphal story\" [13]. The pattern matches other Einstein misattributions (e.g., the \"insanity\" quote, the \"not everything that counts can be counted\" quote), where celebrity authority is retroactively lent to appealing ideas with no basis in the person's actual writings [16].\n\n---\n\n### STEP 7 \u2014 The Glial Cell Ratio as a Possible Structural Confusion\n\nA separate thread may have contributed to the \"10%\" number's intuitive plausibility: the long-standing estimate that the brain contains roughly **10 times as many glial cells as neurons** (a 10:1 ratio), suggesting that \"only 10% of brain cells\" (the neurons) are involved in mental function. Scientific American's coverage noted: \"out of all the brain's cells, only 10 percent are neurons; the other 90 percent are glial cells, which encapsulate and support neurons, but whose function remains largely unknown\" [8].\n\nHowever, this framing is itself outdated. Suzana Herculano-Houzel's direct cell-counting methodology (the isotropic fractionator) found in adult male brains an average of **86.1 billion neurons and 84.6 billion non-neuronal cells** \u2014 a ratio closer to **1:1**, not 10:1 [18]. The 10:1 estimate was \"repeated textbook to textbook for decades\" but \"failed the first direct count\" [18].\n\nJames W. Kalat (author of the textbook *Biological Psychology*) proposed that neuroscientists in the 1930s knew about the large number of \"local\" neurons but understood little about their function, and that this ignorance may have fed the myth [6][10].\n\n---\n\n## Summary: The Chain of Transmission\n\n| Date | Event | Source |\n|------|-------|--------|\n| 1842 | Flourens ablation experiments on animals suggest large brain portions are dispensable | [1] |\n| 1876 | Brown-S\u00e9quard writes about under-development of brain power | [1] |\n| 1890s | William James & Boris Sidis develop \"reserve energy\" theories at Harvard | [6][20] |\n| Dec. 1906 / Jan. 1907 | James delivers/publishes \"The Energies of Men\" \u2014 \"small part of our possible mental and physical resources\" (no % cited) | [28][32] |\n| 1920s\u201330s | Lashley rat experiments; Penfield's \"silent cortex\" language gives scientific gloss | [12][13][33] |\n| **1929** | **World Almanac self-help ad: first confirmed print use of \"10 percent of brain power\"** | [6][34] |\n| 1932 | John W. Campbell's sci-fi story: \"no man ever used even half of the thinking part of his brain\" | [6][34] |\n| **1936/37** | **Lowell Thomas foreword to Carnegie's book: \"average man develops only ten percent of his latent mental ability\" \u2014 attributed to William James; myth reaches mass audience** | [6][11][21][22][25] |\n| 1944 | Pelman Institute (London) uses the myth in advertising | [13] |\n| 1970s | Georgi Lozanov's \"suggestopedia\" promotes \"five to ten percent of mental capacity\" | [6] |\n| 1998 | U.S. Satellite Broadcasting ad: \"You only use 11% of its potential\"; ABC promo: \"Men only use ten percent of their brains\" | [7] |\n| 2011 / 2014 | Films *Limitless* and *Lucy* make the myth a major plot device; *Lucy* earns ~$500M globally | [2][9][24][25] |\n\n---\n\n## Why the Myth Persists\n\nSeveral reinforcing mechanisms explain the myth's durability despite universal scientific rejection:\n\n1. **Intuitive appeal:** People experience their own lapses, forgetfulness, and unrealized goals as evidence of \"unused brain,\" making the myth feel personally validated [8][9]\n2. **Self-help utility:** The myth is a natural marketing claim \u2014 it promises massive improvement if only you buy the program, drug, or technique [7][21][29]\n3. **Psychic and paranormal framing:** The idea that 90% of the brain is dormant provides a pseudoscientific explanation for claimed psychic powers [6][7]\n4. **Circular celebrity authority:** Attributed to Einstein, William James, and Margaret Mead, the claim borrowed unearned credibility [1][7][13]\n5. **Teacher propagation:** A 2012 survey found ~48% of UK teachers and ~46% of Dutch teachers believed the myth [13][18]; a 2014 international survey found 43\u201359% of teachers across multiple countries endorsed it [5][33]\n6. **Hollywood:** Films like *Lucy* (2014) and *Limitless* (2011) repackage the myth as blockbuster entertainment, reaching global audiences in the hundreds of millions [2][9][25]\n\n---\n\n## The Scientific Verdict\n\nThe claim is false by multiple independent lines of evidence:\n\n- **Metabolic:** The brain is ~2% of body mass but consumes ~20% of the body's energy \u2014 an evolutionary impossibility if 90% were idle [2][6][8][13]\n- **Neuroimaging:** PET and fMRI show essentially all brain regions active across any given day, including during sleep [5][6][9][10]\n- **Lesion studies:** Damage to virtually any brain region produces measurable deficits; there are no areas whose destruction is harmless [7][11][19]\n- **Evolutionary logic:** A brain this metabolically expensive would not have been maintained by natural selection if most of it were inactive [3][6][13]\n- **Neurosurgical evidence:** Stimulating supposedly \"silent\" cortex areas does produce effects \u2014 they simply weren't the motor/sensory responses Penfield was measuring [13][29]\n\n---\n\n## Key Takeaway for Decision-Makers\n\nThe \"10% of the brain\" claim **has no scientifically valid original source**. The chain of transmission runs from William James's entirely reasonable (and accurate) psychological observation about untapped *behavioral potential* \u2192 misquotation and numerical precision added by popular writers in the 1920s \u2192 mass dissemination through Lowell Thomas's 1936 foreword to a book that sold tens of millions of copies \u2192 Hollywood and self-help industry amplification. At no point did any neurologist, neuroscientist, or brain researcher ever establish the 10% figure through experiment or measurement. It is, in Barry Beyerstein's words, a myth that \"refuses to die\" because it is psychologically appealing \u2014 not because it is true [21].",
+  "expected_outcome": "wrong - myth traced to 1929 advertising; James said 'a small part', no percentage",
+  "demo_id": "brain-10-percent"
+}

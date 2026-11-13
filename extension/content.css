@@ -1,0 +1,14 @@
+#source-hunter-button {
+  position: absolute;
+  z-index: 2147483647;
+  background: linear-gradient(135deg, #0ea5e9, #14b8a6);
+  color: #fff;
+  border: none;
+  border-radius: 999px;
+  padding: 7px 14px;
+  font: 600 13px/1.2 -apple-system, "Segoe UI", system-ui, sans-serif;
+  cursor: pointer;
+  box-shadow: 0 6px 18px rgba(13, 148, 136, .35);
+}
+#source-hunter-button:hover { filter: brightness(1.08); }
+#source-hunter-button:active { transform: scale(.97); }

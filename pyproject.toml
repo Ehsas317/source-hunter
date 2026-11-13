@@ -1,0 +1,21 @@
+[project]
+name = "source-hunter"
+version = "1.0.0"
+description = "Trace a claim to its original source: TinyResearch + Fetch verification + a Chrome extension."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+dependencies = ["tinyfish>=0.11"]
+
+[project.scripts]
+source-hunter = "sourcehunter.cli:main"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["sourcehunter"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

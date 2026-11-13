@@ -1,0 +1,359 @@
+{
+  "claim": "Albert Einstein published E=mc2 in 1905",
+  "claim_keywords": [
+    "albert",
+    "einstein",
+    "published",
+    "e",
+    "mc"
+  ],
+  "claim_numbers": [
+    "2",
+    "1905"
+  ],
+  "research_run_id": "01a1d5d4-9550-701b-b1f8-350270747ec6",
+  "research_status": "completed",
+  "report_markers": [],
+  "chain": [
+    {
+      "url": "https://www.fourmilab.ch/etexts/einstein/E_mc2/www/",
+      "link": "live",
+      "wording": "matches",
+      "step": "matches",
+      "quoted": [
+        "In this paper Einstein uses L to denote energy; the italicised sentence in the conclusion may be written as the equation \"m = L/c\u00b2\" which, using the more modern E instead of L to denote energy, may be trivially rewritten as \"E = mc\u00b2\".",
+        "| About this Edition This edition of Einstein's Does the Inertia of a Body Depend upon its Energy-Content?",
+        "is based on the English translation of his original 1905 German-language paper (published as Ist die Tr\u00e4gheit eines K\u00f6rpers von seinem Energieinhalt abh\u00e4ngig?, in Annalen der Physik."
+      ],
+      "title": "Does the Inertia of a Body Depend upon its Energy-Content?",
+      "published_date": null,
+      "final_url": "https://www.fourmilab.ch/etexts/einstein/E_mc2/www/"
+    },
+    {
+      "url": "https://guides.loc.gov/einstein-annus-mirabilis/1905-papers",
+      "link": "live",
+      "wording": "matches",
+      "step": "matches",
+      "quoted": [
+        "# Annus Mirabilis of Albert Einstein",
+        "* The Collected Papers of Albert Einstein",
+        "Cassidy (Editor); Robert Schulmann (Editor); Anna Beck (Translator); Albert Einstein; Peter Havas (Consultant Editor)"
+      ],
+      "title": "Research Guides: Annus Mirabilis of Albert Einstein: The 1905 Papers",
+      "published_date": null,
+      "final_url": "https://guides.loc.gov/einstein-annus-mirabilis/1905-papers"
+    },
+    {
+      "url": "https://plato.stanford.edu/archives/win2023/entries/equivME/",
+      "link": "live",
+      "wording": "matches",
+      "step": "matches",
+      "quoted": [
+        "For example, in The Concept of Mass, Jammer says: \u201cIt is a curious incident in the history of scientific thought that Einstein\u2019s own derivation of the formula \\(E = mc^2\\), as published in his article in Annalen der Physik, was basically fallacious.",
+        "Many commentators have observed that in Einstein\u2019s first derivation of this famous result, he did not express it with the equation \\(E = mc^2\\).",
+        "\\[\\tag{Einstein's Equation} E\\_o = mc^2 \\]"
+      ],
+      "title": "The Equivalence of Mass and Energy (Stanford Encyclopedia of Philosophy/Winter 2023 Edition)",
+      "published_date": null,
+      "final_url": "https://plato.stanford.edu/archives/win2023/entries/equivME/"
+    },
+    {
+      "url": "https://www.scientificamerican.com/article/was-einstein-the-first-to-invent-e-mc2/",
+      "link": "live",
+      "wording": "matches",
+      "step": "matches",
+      "quoted": [
+        "# Was Einstein the First to Invent *E = mc**2*?",
+        "According to scientific folklore, Albert Einstein formulated this equation in 1905 and, in a single blow, explained how energy can be released in stars and nuclear explosions.",
+        "In considering the mass inherent in heat Hasen\u00f6hrl extended the previous deliberations beyond the electromagnetic field of charged objects to a broader thought experiment very similar to Einstein\u2019s own of the following year, which gave birth to *E = mc**2*."
+      ],
+      "title": "Was Einstein the First to Invent E = mc2?",
+      "published_date": "2015-08-24T12:07:00-04:00",
+      "final_url": "https://www.scientificamerican.com/article/was-einstein-the-first-to-invent-e-mc2/"
+    },
+    {
+      "url": "https://sites.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/E=mcsquared/index.html",
+      "link": "live",
+      "wording": "matches",
+      "step": "matches",
+      "quoted": [
+        "The derivation was published as Albert Einstein, \"Elementary derivation of the equivalence of mass and energy,\" Bull.",
+        "The relation E=mc2 is a central part of Einstein's special theory of relativity, In 1905, however, it appeared as an afterthought.",
+        "Einstein's \"Inertia of Energy\" paper that proposed E=mc2 was submitted almost three months later on September 27, 1905."
+      ],
+      "title": "E= mc^2",
+      "published_date": null,
+      "final_url": "https://sites.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/E=mcsquared/index.html"
+    },
+    {
+      "url": "https://www.phys.unsw.edu.au/einsteinlight/jw/module1_references.htm",
+      "link": "live",
+      "wording": "matches",
+      "step": "matches",
+      "quoted": [
+        "For instance, a few months before Einstein's celebrated paper introducting Special Relativity, Poincar\u00e9 had published the transformation equations, from which flow many of the results of Special Relativity.",
+        "| The original references - and some caveats and conventionsThe key works cited by or used in writing Einstein Light are: Galileo is easy reading for a non-physicist: indeed the Dialogue is probably more often read by philosophers and historians than by physicists.",
+        "(Newton uses geometry much more than would a modern physicist, in part because he assumed that all educated readers would know geometry \u2014 one of the quadrivium \u2014 and this was his way of communicating with a general audience.) Einstein's paper is also both difficult for a non-scientific reader and somewhat unfamiliar in nomenclature for a physicist."
+      ],
+      "title": "Relativity: the original references (from Einstein Light)",
+      "published_date": null,
+      "final_url": "https://www.phys.unsw.edu.au/einsteinlight/jw/module1_references.htm"
+    },
+    {
+      "url": "https://abakcus.com/articles/einstein-emc2",
+      "link": "live",
+      "wording": "matches",
+      "step": "matches",
+      "quoted": [
+        "The manuscript is now published as Document 1 in Volume 4 of the *Collected Papers of Albert Einstein*.",
+        "In September 1905, Albert Einstein submitted a three-page paper to the journal *Annalen der Physik*.",
+        "The version we recognize today \u2014 written as E = mc\u00b2, with those specific symbols \u2014 did not enter Einstein's handwriting until 1912."
+      ],
+      "title": "When Did Einstein First Write E = mc\u00b2 in His Own Hand?",
+      "published_date": "2026-05-19",
+      "final_url": "https://abakcus.com/articles/einstein-emc2"
+    },
+    {
+      "url": "https://arxiv.org/html/2305.11852v1",
+      "link": "live",
+      "wording": "matches",
+      "step": "matches",
+      "quoted": [
+        "Jammer, having studied the Ives\u2019 criticism and agreeing with it, wrote [6]: \u201cIt is a curious incident in the history of scientific thought that Einstein\u2019s own derivation of the formula E=mc2, as published in his article in the Annalen der Physik, was basically fallacious.",
+        "Both Poincar\u00e9 in his 1900 Festschrift paper [1] and Einstein in his 1905 Annalen der Physik article [2] were led to E=mc2 by considering electromagnetic processes taking place in vacuo.",
+        "Field provides a striking vindication of Einstein\u2019s 1905 paper on E=mc2 undoing more than 100 years of criticism which started with Max Planck [3]."
+      ],
+      "title": "Poincar\u00e9 and Einstein on Mass-Energy Equivalence: A Modern Perspective on their 1900 and 1905 Papers",
+      "published_date": null,
+      "final_url": "https://arxiv.org/html/2305.11852v1"
+    },
+    {
+      "url": "https://www.fourmilab.ch/etexts/einstein/E_mc2/e_mc2.pdf",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://sites.pitt.edu/~jdnorton/teaching/Guest_teaching/HS_Core_2023/HS_Core_Einstein_day.html",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.britannica.com/science/E-mc2-equation",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Annus_mirabilis_papers",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://einsteinrelativelyeasy.com/index.php/einstein/71-einstein-paper-outlines-e-mc2-november-21-1905",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://ajuronline.org/uploads/Volume_13_1/AJUR_January_2016p5.pdf",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://einsteinrelativelyeasy.com/index.php/einstein/72-e-mc2-published-in-the-1912-manuscript-on-the-special-theory-of-relativity",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://arxiv.org/abs/1303.7162",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.theguardian.com/world/1999/nov/11/rorycarroll",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.iqoqi-vienna.at/blogs/blog/a-forgotten-viennese-physicist-friedrich-hasenoehrl",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Olinto_De_Pretto",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Friedrich_Hasen%C3%B6hrl",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://skullsinthestars.com/2011/11/26/on-matter-as-a-form-of-energy-written-in-1881/",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.manhattanrarebooks.com/pages/books/2103/albert-einstein/ist-die-tragheit-eines-korpers-von-seinem-energieinhalt-abhangig-does-the-inertia-of-a-body-depend?soldItem=true",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://mathshistory.st-andrews.ac.uk/SH/einstein_2_sh.pdf",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://sites.pitt.edu/~jdnorton/teaching/Einstein_graduate/2509_Einstein_1905.html",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.bjp-bg.com/papers/bjp2019_2_081-093.pdf",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.pbs.org/wgbh/nova/einstein/legacy.html",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://arxiv.org/pdf/0808.0437",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://arxiv.org/html/2510.17838v2",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.christies.com/en/lot/lot-6513425",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://libraries.mit.edu/150books/2011/02/20/1905/",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://myweb.rz.uni-augsburg.de/~eckern/adp/history/Einstein-in-AdP.htm",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://pro.tsv.fi/lfs/verkko/Pollesello/sld012.htm",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.abebooks.com/servlet/BookDetailsPL?bi=31565293984&cm_sp=collections-_-1n904gVToJqNN2UiQVqsfn_item_1_21-_-bdp",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    }
+  ],
+  "earliest_verifiable_source": {
+    "url": "https://www.scientificamerican.com/article/was-einstein-the-first-to-invent-e-mc2/",
+    "link": "live",
+    "wording": "matches",
+    "step": "matches",
+    "quoted": [
+      "# Was Einstein the First to Invent *E = mc**2*?",
+      "According to scientific folklore, Albert Einstein formulated this equation in 1905 and, in a single blow, explained how energy can be released in stars and nuclear explosions.",
+      "In considering the mass inherent in heat Hasen\u00f6hrl extended the previous deliberations beyond the electromagnetic field of charged objects to a broader thought experiment very similar to Einstein\u2019s own of the following year, which gave birth to *E = mc**2*."
+    ],
+    "title": "Was Einstein the First to Invent E = mc2?",
+    "published_date": "2015-08-24T12:07:00-04:00",
+    "final_url": "https://www.scientificamerican.com/article/was-einstein-the-first-to-invent-e-mc2/"
+  },
+  "trace_verdict": "traced",
+  "steps_shown": 34,
+  "citations_total": 34,
+  "report": "# Tracing the Claim: \"Albert Einstein Published E=mc\u00b2 in 1905\"\n\n## Executive Summary\n\nThe claim is **substantially correct but requires three important qualifications**: (1) Einstein did publish the foundational paper for mass-energy equivalence in 1905, in *Annalen der Physik* vol. 18, pp. 639\u2013641; (2) however, the exact notation **E=mc\u00b2** does not appear in that paper \u2014 Einstein used different symbols and expressed the result in prose; and (3) Einstein was not the first to relate mass and energy mathematically, though he was arguably the first to assert the relationship universally. The claim traces back directly to Einstein's own paper of September 27, 1905, but the modern shorthand \"E=mc\u00b2\" as a written formula under Einstein's name appears to be a later consolidation, with the exact symbolic form appearing in a 1912 manuscript and not prominently under Einstein's own name until 1946 in a popular science article.\n\n---\n\n## 1. The Original Primary Source: Einstein's 1905 Paper\n\n### Exact Bibliographic Citation\n\nThe foundational document is:\n\n> **Einstein, Albert. \"Ist die Tr\u00e4gheit eines K\u00f6rpers von seinem Energieinhalt abh\u00e4ngig?\" (*Does the Inertia of a Body Depend upon its Energy-Content?*) *Annalen der Physik*, 4th Series [*Vierte Folge*], **vol. 18**, no. 13, pp. 639\u2013641. Leipzig: Johann Ambrosius Barth, 1905.**\n\nThe paper was **received by the journal on September 27, 1905**, and **published on November 21, 1905** [1][10][12][13]. It is the fourth of Einstein's four *annus mirabilis* papers, the shortest at just three pages [5][31].\n\nThe volume numbering is confirmed by multiple primary and authoritative sources: the mass-energy paper is in **vol. 18**, not vol. 17. The three earlier 1905 papers (photoelectric effect, Brownian motion, and special relativity) appeared in vol. 17, pp. 132, 549, and 891, respectively; the mass-energy paper shifted into vol. 18 [32][24][13].\n\n### What the Paper Actually Said\n\nThe paper is a short thought-experiment. Einstein imagines a body at rest that emits two pulses of light of equal energy in opposite directions, then computes the kinetic energy of the body as seen from a moving reference frame using the relativistic Doppler formula derived in his earlier special relativity paper. After approximation, he finds that the body's kinetic energy has decreased by an amount equal to L/V\u00b2, where **L is the energy radiated and V is the speed of light** [1][9].\n\nThe conclusion, stated in prose rather than as an equation, is:\n\n> *\"If a body gives off the energy L in the form of radiation, its mass diminishes by L/V\u00b2. The mass of a body is a measure of its energy-content.\"* [1][9][31]\n\nIn German: *\"Gibt ein K\u00f6rper die Energie L in Form von Strahlung ab, so verkleinert sich seine Masse um L/V\u00b2.\"* [31]\n\n---\n\n## 2. What Einstein Actually Wrote: The Notation Question\n\nThis is the most commonly misunderstood aspect of the claim.\n\n**Einstein did not write \"E=mc\u00b2\" in the 1905 paper.** He used:\n- **L** for energy (not E)\n- **V** for the speed of light (not c)\n- **m** for mass\n\nThe result is implicit in the sentence \"mass diminishes by L/V\u00b2,\" which, by substituting the modern symbols E for L and c for V, becomes m = E/c\u00b2, or equivalently **E = mc\u00b2** \u2014 but Einstein never wrote it that way in 1905 [1][3][5][7][14].\n\nAs the Stanford Encyclopedia of Philosophy notes: *\"As Hecht has emphasized, Einstein never wrote down his famous result using the symbols 'E' and 'm' as they appear in the famous equation attributed to him.\"* [3]\n\n### When Did E=mc\u00b2 First Appear in Einstein's Own Work?\n\n| Date | Document | Notation Used | Notes |\n|------|----------|---------------|-------|\n| Nov. 1905 | *Annalen der Physik* vol. 18 | L/V\u00b2 | No explicit equation; stated in prose [1][9] |\n| 1906 | *Annalen der Physik* vol. 20, pp. 627\u2013633 | L/V\u00b2 or similar | Second derivation; Einstein acknowledges Poincar\u00e9 [15][32] |\n| 1907 | *Annalen der Physik* vol. 23, pp. 371\u2013384 | \u03bc, \u03b5\u2080, V | States \"mass \u03bc equivalent to energy \u03bcc\u00b2\" [3][32] |\n| 1912 | Manuscript on Special Relativity | **E** (crossed-out L) | First known appearance of E replacing L; still uses **q** for speed [5][7][16] |\n| 1921 | *The Meaning of Relativity* (Princeton Lectures) | **E\u2080 = mc\u00b2** | First unambiguous use of modern notation in a published book [3][28] |\n| **April 1946** | *Science Illustrated*, \"E=mc\u00b2, the most urgent problem of our time\" | **E=mc\u00b2** in title and text | Described by one bookseller as the first time the exact formula appears in print under Einstein's name with his image [34] |\n\nThe 1923 English translation (by W. Perrett and G.B. Jeffery, in *The Principle of Relativity*, Methuen & Co., London) updated Einstein's 1905 notation to 1920s conventions \u2014 writing **c** instead of V \u2014 which is the version most readers encounter today [1][9][24].\n\n---\n\n## 3. Chain of Transmission: How the Claim Became Common Knowledge\n\n**Step 1 \u2014 The 1905 paper itself** (September 27 / November 21, 1905): Einstein published the mass-energy equivalence argument in *Annalen der Physik* vol. 18 [1][13]. It attracted little immediate attention [5].\n\n**Step 2 \u2014 Max Planck's 1907 engagement**: Planck was among the first to take the result seriously, publishing a critique and what some consider a more rigorous derivation in 1907. His engagement gave Einstein's mass-energy work wider visibility in physics circles [8][15].\n\n**Step 3 \u2014 Einstein's subsequent papers (1906, 1907)**: Einstein himself acknowledged shortcomings and published improved derivations in *Annalen der Physik* vols. 20 and 23. His 1907 review article stated explicitly: *\"with respect to inertia, a mass \u03bc is equivalent to an energy content of magnitude \u03bcc\u00b2\"* [3][32].\n\n**Step 4 \u2014 Hermann Minkowski's 1908 spacetime formulation**: Minkowski's four-dimensional presentation, described as influential in gaining widespread acceptance of special relativity, brought the energy-momentum relationship into standard physics discourse [13].\n\n**Step 5 \u2014 The 1921 Princeton Lectures and 1923 English translations**: Einstein's notation crystallized to **E\u2080 = mc\u00b2** in his 1921 Princeton lectures [3][28], and the 1923 English translation of the original papers (using modern notation) made the result accessible to English-speaking audiences [1][9][24].\n\n**Step 6 \u2014 Popular science and the atomic age (1930s\u20131945)**: The connection between mass-energy equivalence and nuclear energy \u2014 fission and the atomic bomb \u2014 made the equation internationally famous. David Bodanis's later book *E=mc\u00b2: A Biography of the World's Most Famous Equation* traces this popularization arc [13].\n\n**Step 7 \u2014 The exact string \"E=mc\u00b2\" under Einstein's name**: The bookseller description of a 1946 *Science Illustrated* article suggests the exact modern formula may not have appeared prominently under Einstein's own byline until 1946, though this is a single-dealer claim that historian Gerald Holton, when consulted, said he could not confirm [34].\n\n**Step 8 \u2014 Institutionalization (2005 and beyond)**: The World Year of Physics 2005, endorsed by the United Nations to mark the centenary of the annus mirabilis, cemented \"Einstein published E=mc\u00b2 in 1905\" as the canonical popular formulation [13].\n\n---\n\n## 4. Precursors Before 1905: What Historians Have Found\n\nThe claim that Einstein \"published E=mc\u00b2\" is further complicated by a substantial prehistory. Historians broadly agree that Einstein was not the first to relate mass and energy, but assess his contribution as qualitatively different in scope and theoretical grounding.\n\n### Key Precursors\n\n**J.J. Thomson (1881)**: Calculated the magnetic field of a moving charged sphere and showed it induced an effective mass \u2014 the first attempt to link electromagnetic energy to inertia [4][7][8][26]. No universal claim; purely electromagnetic.\n\n**Oliver Heaviside (1889)**: Simplified Thomson's work to show effective electromagnetic mass m = (4/3)E/c\u00b2 for a uniformly charged moving sphere [4][7][8]. Still restricted to electromagnetic fields.\n\n**Henri Poincar\u00e9 (1900)**: In his Festschrift article *\"La th\u00e9orie de Lorentz et le Principe de r\u00e9action\"*, Poincar\u00e9 derived what amounts to E=mc\u00b2 for a light pulse emitted from a Hertzian oscillator, via generalized momentum conservation. He described a \"fictitious fluid\" with mass E/c\u00b2. This is considered by some scholars *\"probably the first assertion about E=mc\u00b2 as we have come to understand it\"* [8][26]. Crucially, however, Poincar\u00e9 did not connect E to the mass of any real material body \u2014 he treated it as a mathematical fiction [4][26]. Einstein's 1906 paper essentially reproduced this result, as Einstein himself acknowledged [15][26].\n\n**Olinto De Pretto (1903\u20131904)**: The Italian industrialist published a 62-page paper *\"Ipotesi dell'etere nella vita dell'universo\"* on November 29, 1903 (printed February 27, 1904) in *Atti del Reale Istituto Veneto di Scienze* [20][33]. Italian mathematician Umberto Bartocci claimed in 1999 that De Pretto was first to write E=mc\u00b2 and that Einstein may have learned of it through Michele Besso [18][20]. However, mainstream historians and Wikipedia's analysis find that De Pretto's derivation was entirely based on classical physics, inconsistent with physical facts, and that he appears to have been discussing *vis viva* (classical kinetic energy) rather than mass-energy equivalence \u2014 his energy figure also reportedly doubles Einstein's [20]. The claim of influence on Einstein is unverified and contested [18][20].\n\n**Friedrich Hasen\u00f6hrl (1904\u20131905)**: The Austrian physicist published a trilogy *\"Zur Theorie der Strahlung in bewegten K\u00f6rpern\"* in the *Wiener Sitzungsberichte* (1904) and *Annalen der Physik* vols. 15 and 16 (1904\u20131905), analyzing blackbody radiation in a moving cavity and concluding that radiation energy has an apparent mass [17][19][21]. His initial result was E = (3/8)mc\u00b2, corrected after Abraham's criticism to E = (3/4)mc\u00b2 (or equivalently m = 4/3 E/c\u00b2) [17][21]. Planck noted in 1909: *\"That the black body radiation possesses inertia was first pointed out by F. Hasen\u00f6hrl\"* [4][21]. However, Max von Laue clarified in 1921 that *\"while the inertia of electromagnetic energy had been known long before Hasen\u00f6hrl, Einstein was indeed the first to establish the equivalence of real mass and the total energy-momentum content\"* [21]. Hasen\u00f6hrl's work was restricted to electromagnetic radiation in a cavity, not generalized; and his coefficient was wrong [4][17][22].\n\n### Historian Consensus on Priority\n\nThe scholarly consensus, articulated by sources including the Stanford Encyclopedia of Philosophy, *Scientific American*, and Max von Laue's 1921 statement, is as follows [3][4][21]:\n\n- **Einstein was the first to assert the equivalence as universal** \u2014 applying to all forms of energy and all masses, not just electromagnetic fields or cavity radiation.\n- **Einstein's 1905 derivation is logically problematic**: Planck (1907), Ives (1952), Jammer, Holton, Miller, and others identified circular reasoning in it; the 1906 and 1907 papers are considered sounder [8][15][26].\n- **Stachel and Torretti (1982)** argued in the *American Journal of Physics* that Einstein's 1905 paper was \"basically sound,\" a view that Jammer partially accepted in his 2009 revision [8].\n- **Ohanian (2009)** called the defect a \"non sequitur\" rather than circular reasoning; Hecht concluded a fully satisfactory derivation within special relativity alone may be impossible [8].\n- **De Pretto's claim** is rejected by most historians as a numerical coincidence embedded in a physically incoherent framework [20].\n\n---\n\n## 5. Synthesis: What the Claim Gets Right and Wrong\n\n| Element of the Claim | Assessment | Key Evidence |\n|----------------------|------------|--------------|\n| \"Albert Einstein\" | \u2705 Correct | The paper's author [1][9] |\n| \"published\" | \u2705 Correct | *Annalen der Physik*, November 21, 1905 [12][13] |\n| \"E=mc\u00b2\" | \u26a0\ufe0f Anachronistic \u2014 not the notation used | 1905 paper used L/V\u00b2; \"E=mc\u00b2\" in print under Einstein's name plausibly not until 1946 [1][3][34] |\n| \"in 1905\" | \u2705 Correct for the paper; \u26a0\ufe0f misleading for the formula | Paper published 1905; formula notation solidified ~1921 [3][28] |\n| Implicit: Einstein was first | \u26a0\ufe0f Partly correct | First to assert universality; preceded by Thomson, Heaviside, Poincar\u00e9, Hasen\u00f6hrl [4][21] |\n| Implicit: derivation was rigorous | \u26a0\ufe0f Contested | Circular reasoning identified by Planck, Ives, and others; sounder proofs came in 1906\u20131907 [8][15] |\n\n---\n\n## 6. Decision-Relevant Bottom Line\n\nFor a decision-maker citing or evaluating this claim:\n\n1. **The core historical fact is reliable**: Einstein published the paper giving mass-energy equivalence in *Annalen der Physik* vol. 18, pp. 639\u2013641, received September 27, 1905, published November 21, 1905. This is confirmed by primary sources [1][2][9][32].\n\n2. **The notation \"E=mc\u00b2\" is a later standardization**, not what Einstein wrote. The 1905 paper used L and V. The modern symbols entered Einstein's own published writing around 1921 [3][28].\n\n3. **If precision matters** (e.g., in legal, educational, or attribution contexts), the accurate claim is: *\"In 1905, Einstein published a paper showing that a body's mass is a measure of its energy content, with the relationship expressed as mass diminishes by L/V\u00b2 when energy L is radiated \u2014 the result now written as E=mc\u00b2.\"*\n\n4. **Priority claims by De Pretto and Hasen\u00f6hrl** are historically real but do not displace Einstein's contribution: De Pretto's work was physically incoherent [20]; Hasen\u00f6hrl's was restricted to electromagnetic radiation with a wrong coefficient [17][21]. Poincar\u00e9's 1900 work is the most serious precursor, but it lacked the universality Einstein supplied [4][26].\n\n5. **The popular claim's propagation** runs from the 1923 English translation \u2192 atomic age popular science \u2192 the 2005 World Year of Physics, by which point \"Einstein published E=mc\u00b2 in 1905\" had become firmly embedded in global common knowledge [1][13][24].",
+  "expected_outcome": "true - traces to the 1905 Annalen der Physik paper, a real primary source",
+  "demo_id": "emc-1905"
+}

@@ -1,0 +1,295 @@
+{
+  "claim": "The Great Wall of China is visible from space with the naked eye",
+  "claim_keywords": [
+    "great",
+    "wall",
+    "china",
+    "visible",
+    "space",
+    "naked",
+    "eye"
+  ],
+  "claim_numbers": [],
+  "research_run_id": "01a1d5cb-f0dd-7591-95fa-a6144bfe335f",
+  "research_status": "completed",
+  "report_markers": [
+    {
+      "marker": "Earliest Known",
+      "sentence": "## Step 1: The Earliest Known Written Source \u2014 William Stukeley, 1754"
+    },
+    {
+      "marker": "earliest known",
+      "sentence": "**Reliability of the attribution:** The citation of Stukeley's letter is corroborated by multiple independent secondary sources [16][8][9][10][14] and the archive of his family memoirs is accessible [18]. It is widely described as \"one of the earliest known references\" to the myth [16], and some sources call it the earliest known written record [10]. However, the original text of the letter itself"
+    }
+  ],
+  "chain": [
+    {
+      "url": "https://www.scientificamerican.com/article/no-you-cant-see-the-great-wall-of-china-from-space/",
+      "link": "live",
+      "wording": "matches",
+      "step": "matches",
+      "quoted": [
+        "# No, You Can\u2019t See the Great Wall of China from Space",
+        "Reports of Earth-orbiting astronauts glimpsing the Great Wall of China and many other artificial structures are wildly exaggerated, but humanity\u2019s planetary influence isn\u2019t entirely invisible from afar",
+        "The Great Wall of China as seen by ESA astronaut Alexander Gerst from the cupola on the International Space Station in 2018 with the aid of an 800mm super telephoto lens."
+      ],
+      "title": "No, You Can\u2019t See the Great Wall of China from Space",
+      "published_date": "2024-08-09T06:45:00-04:00",
+      "final_url": "https://www.scientificamerican.com/article/no-you-cant-see-the-great-wall-of-china-from-space/"
+    },
+    {
+      "url": "https://www.nbcnews.com/id/wbna4515544",
+      "link": "live",
+      "wording": "matches",
+      "step": "matches",
+      "quoted": [
+        "It reads: \"A cosmonaut rising radiantly said 'Flying in my spaceship, surveying our Earth from space, I am able to make out two constructions with my bare eyes: One is a Dutch sea embankment, the other is China's Great Wall!'\"",
+        "The myth about China's Great Wall has come tumbling down, thanks to the nation's first man in space.",
+        "The wall stretches thousands of miles across northern China but is only a few yards wide, making it impossible to see from space."
+      ],
+      "title": "Great-Wall-in-space mythcomes crumbling down",
+      "published_date": "2004-03-12T21:03:08.000Z",
+      "final_url": "https://www.nbcnews.com/id/wbna4515544"
+    },
+    {
+      "url": "http://www.china.org.cn/english/scitech/95406.htm",
+      "link": "live",
+      "wording": "matches",
+      "step": "matches",
+      "quoted": [
+        "\"In Earth's orbit at a height of 160 to 320 kilometers [100-200 miles], the Great Wall of China is indeed visible to the naked eye,\" says astronaut Eugene Cernan.",
+        "**What's really visible from space** There is a longstanding myth that the Great Wall of China is the only manmade object visible from space.",
+        "(The lower left of the image is purposely washed out; it shows a stretch of engineered waterways called the Da Yunhe, or Grand Canal, a marvel all its own.) Sure, spotting the Great Wall of China from space is easy with the right telescope and camera."
+      ],
+      "title": "Great Wall of China from Space",
+      "published_date": null,
+      "final_url": "http://www.china.org.cn/english/scitech/95406.htm"
+    },
+    {
+      "url": "https://www.thevintagenews.com/2017/02/12/the-myth-that-the-great-wall-of-china-is-visible-from-space-originated-before-anyone-had-ever-been-into-space/",
+      "link": "live",
+      "wording": "matches",
+      "step": "matches",
+      "quoted": [
+        "# The myth that the Great Wall of China is visible from space originated before anyone had ever been into space",
+        "This myth became even more popular in the 1930\u2019s when a \u201cRipley\u2019s Believe It or Not!\u201d cartoon called it \u201cthe mightiest work of man, the only one that would be visible to the human eye from the moon.\u201d The myth continued to exist until Neil Armstrong returned from the moon in 1969 and said that the Great Wall is \u201cdefinitely not visible from the Moon\u201d.",
+        "In 2003, astronaut Yang Liwei, who was the first person sent into space by the Chinese space program stated that he had not been able to see the Great Wall of China."
+      ],
+      "title": "The myth that the Great Wall of China is visible from space originated before anyone had ever been into space | The Vintage News",
+      "published_date": "2017-02-12T11:00:49+00:00",
+      "final_url": "https://www.thevintagenews.com/2017/02/12/the-myth-that-the-great-wall-of-china-is-visible-from-space-originated-before-anyone-had-ever-been-into-space/"
+    },
+    {
+      "url": "https://www.snopes.com/fact-check/great-wall-from-moon/",
+      "link": "live",
+      "wording": "matches",
+      "step": "matches",
+      "quoted": [
+        "The claim that China's Great Wall is the only man-made object that can be seen from the moon with the naked eye is one of our more tenaciously incorrect \"facts,\" a bit of erroneous speculation which was spawned decades before we had the means to demonstrate it true, and which continues to have currency despite having long since been proved false.",
+        "# Is the Great Wall of China Visible from the Moon?",
+        "## Long-held common belief holds that the Great Wall of China is the only man-made object visible from the moon."
+      ],
+      "title": "Is the Great Wall of China Visible from the Moon?",
+      "published_date": "2001-11-12 05:05:06",
+      "final_url": "https://www.snopes.com/fact-check/great-wall-from-moon/"
+    },
+    {
+      "url": "https://www.scientificamerican.com/article/is-chinas-great-wall-visible-from-space/",
+      "link": "live",
+      "wording": "matches",
+      "step": "matches",
+      "quoted": [
+        "# Is China's Great Wall Visible from Space?",
+        "Choose a legend: The Great Wall of China is the one of the few man-made structures visible from orbit.",
+        "A 1932 *Ripley's Believe It or Not!* cartoon claimed that the wall is \"the mightiest work of man, the only one that would be visible to the human eye from the moon.\" The belief persisted into the Space Age."
+      ],
+      "title": "Is China's Great Wall Visible from Space?",
+      "published_date": "2008-02-21T14:20:00-05:00",
+      "final_url": "https://www.scientificamerican.com/article/is-chinas-great-wall-visible-from-space/"
+    },
+    {
+      "url": "https://www.nasa.gov/wp-content/uploads/static/history/PDFs/great_wall_less_great_from_space.pdf",
+      "link": "live",
+      "wording": "matches",
+      "step": "matches",
+      "quoted": [
+        "The Great Wall of China, frequently billed as the only man-made object visible from space,",
+        "7/2/2019 NASA - China's Wall Less Great in View from Space",
+        "China's Wall Less Great in View from Space 05.09.05"
+      ],
+      "title": "",
+      "published_date": null,
+      "final_url": "https://www.nasa.gov/wp-content/uploads/static/history/PDFs/great_wall_less_great_from_space.pdf"
+    },
+    {
+      "url": "https://www.skyatnightmagazine.com/space-science/can-you-see-great-wall-china-from-space",
+      "link": "live",
+      "wording": "matches",
+      "step": "matches",
+      "quoted": [
+        "Surely, given the International Space Station's position in low-Earth orbit, astronauts living and working onboard the ISS would be the perfect candidates to prove or disprove whether the Great Wall of China can be seen with the naked eye from space.",
+        "So while the Great Wall of China can be photographed or observed from space using magnification, it can't be seen with the naked eye.",
+        "So while it turns out the Great Wall of China can't be seen from space with the naked eye, there are plenty of other signifiers that life exists on planet Earth, should any interstellar explorers happen to chance upon our Solar System."
+      ],
+      "title": "Can you see the Great Wall of China from space? | BBC Sky at Night Magazine",
+      "published_date": "2024-02-27T11:10:42+00:00",
+      "final_url": "https://www.skyatnightmagazine.com/space-science/can-you-see-great-wall-china-from-space"
+    },
+    {
+      "url": "https://boards.straightdope.com/t/great-wall-myth-originated-with-ripleys/565263",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://archaeology-travel.com/asia/china/great-wall-of-china/",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.visitourchina.com/special/china-great-wall/faq-03.html",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.livescience.com/34212-great-wall-of-china-only-manmade-object-visible-from-space.html",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "http://www.china.org.cn/english/China/90781.htm",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.thevintagenews.com/2017/12/20/great-wall-of-china/",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.nasa.gov/image-article/great-wall/",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Great_Wall_of_China",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.travelchinaguide.com/china_great_wall/facts/seen-from-space.htm",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://archive.org/details/familymemoirsofr03stuk",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.grunge.com/1905114/can-you-see-great-wall-of-china-from-space-myth/",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://brokensecrets.com/2013/04/04/you-cannot-see-the-great-wall-of-china-from-space/",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://news.bbc.co.uk/2/hi/asia-pacific/4459311.stm",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://kradical.livejournal.com/2185275.html",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.northcoastjournal.com/life-outdoors/is-the-great-wall-visible-from-space-18135894/",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.calameo.com/books/005981561c4c5752a8014",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Richard_Halliburton",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    }
+  ],
+  "earliest_verifiable_source": {
+    "url": "https://www.snopes.com/fact-check/great-wall-from-moon/",
+    "link": "live",
+    "wording": "matches",
+    "step": "matches",
+    "quoted": [
+      "The claim that China's Great Wall is the only man-made object that can be seen from the moon with the naked eye is one of our more tenaciously incorrect \"facts,\" a bit of erroneous speculation which was spawned decades before we had the means to demonstrate it true, and which continues to have currency despite having long since been proved false.",
+      "# Is the Great Wall of China Visible from the Moon?",
+      "## Long-held common belief holds that the Great Wall of China is the only man-made object visible from the moon."
+    ],
+    "title": "Is the Great Wall of China Visible from the Moon?",
+    "published_date": "2001-11-12 05:05:06",
+    "final_url": "https://www.snopes.com/fact-check/great-wall-from-moon/"
+  },
+  "trace_verdict": "traced",
+  "steps_shown": 25,
+  "citations_total": 25,
+  "report": "# The Great Wall of China Visible from Space: Tracing the Claim to Its Origins\n\n## Executive Summary\n\nThe claim that the Great Wall of China is visible from space \u2014 and especially from the Moon \u2014 is a demonstrably false myth that predates space travel by more than two centuries. Its traceable history runs from a private 1754 letter by English antiquary William Stukeley, through a 1895 travel book by Henry Norman, to a 1932 Ripley's *Believe It or Not!* cartoon and a 1938 travel book by Richard Halliburton. No astronaut has reliably seen the Wall with the naked eye from orbit, and it is physically impossible to see from the Moon. The myth was definitively \u2014 and publicly \u2014 shattered when China's own first astronaut, Yang Liwei, reported not seeing it in 2003, prompting China to revise elementary school textbooks that had long propagated the falsehood. What follows is a step-by-step reconstruction of the claim's genealogy, with each link in the chain examined critically.\n\n---\n\n## Step 1: The Earliest Known Written Source \u2014 William Stukeley, 1754\n\nThe oldest traceable written record of the claim appears in a private letter written in 1754 by **William Stukeley** (1687\u20131765), a prominent English antiquary and clergyman [16]. The letter was published posthumously in *The Family Memoirs of the Rev. William Stukeley* (the third volume of which dates to 1882\u20131887) [18].\n\nThe key passage reads:\n\n> *\"This mighty wall [Hadrian's Wall] \u2026 is only exceeded by the Chinese Wall, which makes a considerable figure upon the terrestrial globe, and may be discerned at the Moon.\"* [16][8]\n\nSeveral points of critical analysis are essential here:\n\n**What was Stukeley actually writing about?** Stukeley was primarily discussing **Hadrian's Wall** in northern Britain \u2014 his main antiquarian passion \u2014 and used the Chinese Wall only as a comparator to illustrate scale [16][10]. The claim about lunar visibility was therefore rhetorical and comparative, almost certainly hyperbolic, intended to convey the grandeur of a long linear structure rather than to make a scientific assertion [20].\n\n**Was it a scientific claim?** Almost certainly not. In 1754, there was no telescope or observational technology that could verify visibility of the Wall from the Moon. Multiple sources characterize it as probable literary hyperbole [20][5]. One source suggests Stukeley may simply have been making a vivid rhetorical point about scale that some readers took literally [20].\n\n**Reliability of the attribution:** The citation of Stukeley's letter is corroborated by multiple independent secondary sources [16][8][9][10][14] and the archive of his family memoirs is accessible [18]. It is widely described as \"one of the earliest known references\" to the myth [16], and some sources call it the earliest known written record [10]. However, the original text of the letter itself was not directly readable in the retrieved archive metadata [18], so the exact wording is transmitted through secondary accounts \u2014 though multiple reputable sources quote it consistently.\n\n**Confidence level:** High that this is the earliest *known* written source; moderate uncertainty about whether earlier oral or written versions existed.\n\n---\n\n## Step 2: Henry Norman, 1895 (sometimes cited as 1904)\n\nThe next significant link in the chain is **Henry Norman**, a British journalist, politician, and travel writer. He published *The Peoples and Politics of the Far East* \u2014 sources give the date as either 1895 [9][16] or 1904 [5][14] (the 1895 date refers to the first edition; a 1904 edition is also cited).\n\nNorman wrote:\n\n> *\"Besides its age it enjoys the reputation of being the only work of human hands on the globe visible from the Moon.\"* [5][9][16]\n\n**Critical analysis:**\n\n- Norman's phrasing is notably careful: he attributed the claim to the Wall's existing *reputation*, not to his own direct knowledge or scientific authority. He was reporting a belief, not asserting a fact [5][9].\n- This is significant: it suggests the claim was already in circulation (at least informally) before 1895, making Stukeley's 1754 letter plausible as an earlier source that fed into a growing cultural assumption.\n- Snopes identifies this as \"an even earlier source\" than Halliburton's 1938 book, placing it in a documentary chain [5].\n- Norman was a credible travel writer with broad readership, so his book would have propagated the belief to a substantial educated audience.\n\n**Confidence level:** High that Norman made this claim; moderate confidence about whether the 1895 or 1904 edition is the more relevant one (both are cited).\n\n---\n\n## Step 3: Ripley's *Believe It or Not!*, 1932\n\nThe claim achieved mass popular circulation through a **1932 Ripley's *Believe It or Not!*** cartoon or strip [6][12][16]. Multiple sources cite this as a watershed moment in the myth's spread.\n\nThe Ripley's text reportedly stated:\n\n> *\"The mightiest work of man, the only one that would be visible to the human eye from the moon.\"* [6][11][12]\n\n**Critical analysis:**\n\n- Sources give the month as **May 1932** [11], though not all sources specify the exact date [6][12][16].\n- Ripley's was an enormously popular syndicated media franchise. A claim appearing in its cartoons would reach millions of American readers almost instantly and be reprinted and republished repeatedly [9].\n- Notably, one close reading of the phrasing points out that Ripley used the conditional \"**would be** visible\" \u2014 framing it as a speculative claim rather than a confirmed fact [9]. Whether readers absorbed this nuance is doubtful.\n- The strip apparently depicted the **Badaling section** of the Wall, which was not completed until the 17th century \u2014 an internal historical error suggesting Ripley's researchers were not rigorous about the Wall's actual history [9].\n- Snopes [5] and Scientific American [6] both identify Ripley's 1932 publication as a major amplification event, though not the original source.\n\n**Confidence level:** High that Ripley's published such a claim in 1932; the exact issue/date is confirmed by some sources as May 1932 [11].\n\n---\n\n## Step 4: Richard Halliburton, 1938\n\n**Richard Halliburton**, a hugely popular American adventurer and travel writer, cemented the myth in his 1938 book *Second Book of Marvels: The Orient*. His text stated:\n\n> *\"Astronomers say that the Great Wall is the only man-made thing on our planet visible to the human eye from the moon.\"* [5]\n\n**Critical analysis:**\n\n- Halliburton attributed the claim to unnamed \"astronomers,\" lending it a veneer of scientific authority it did not have [5].\n- His books were bestsellers in the 1930s, and Snopes assesses that \"if he himself wasn't the originator of this factoid, he undoubtedly helped it spread widely\" [5].\n- The book was published in 1938 \u2014 thirty-one years before Apollo 11 landed on the Moon \u2014 making any empirical verification impossible at the time of writing [22].\n- The NASA historical document on this topic dates the traceable theory to \"at least 1938,\" implicitly treating Halliburton's book as the milestone it could confirm [7].\n- Halliburton himself disappeared at sea in March 1939 while attempting a Pacific crossing on a Chinese junk, before the Space Age could test his claim [25].\n\n**Confidence level:** High that Halliburton published this precise claim in 1938; the Snopes direct quote [5] is sourced from the original book text.\n\n---\n\n## Summary: The Chain of Transmission\n\n| Year | Source | Claim Type | Audience Reach |\n|------|--------|-----------|---------------|\n| 1754 | William Stukeley, private letter (pub. 1882\u201387) | Rhetorical/hyperbolic, likely comparing structures | Limited (private correspondence) |\n| 1895/1904 | Henry Norman, *Peoples and Politics of the Far East* | Attributed to the Wall's \"reputation\" \u2014 not asserted as fact | Moderate (educated readership) |\n| 1932 | Ripley's *Believe It or Not!* (May 1932) | Presented as a remarkable claim; phrased speculatively | Mass (syndicated, millions of readers) |\n| 1938 | Richard Halliburton, *Second Book of Marvels: The Orient* | Attributed to \"astronomers\"; treated as established fact | Mass (bestselling travel book) |\n\nThe claim then passed into elementary school curricula \u2014 including in China \u2014 and persisted unremarked through the early Space Age [2][7].\n\n---\n\n## Step 5: The Scientific Reality \u2014 Why the Claim Is False\n\nThe myth is not merely unverified; it is **physically impossible** according to multiple lines of evidence:\n\n- From the Moon (average distance ~384,000 km), the apparent width of the Great Wall would equal that of a human hair viewed from 3 km away [16]. No unaided human eye could resolve such an object.\n- Mathematically, the Wall would need to be approximately **70 miles (110 km) wide** to be seen from the Moon with the naked eye; its actual maximum width is about 30 feet (9.1 m) [20].\n- From low Earth orbit (the ISS, ~250 miles up), the wall's width of roughly 4\u20139 meters still falls below the threshold of human angular resolution (approximately 1 arcminute) [1][23].\n- NASA's chief scientist for Earth observation, Kamlesh Lulla, notes that the Wall is built from materials **similar in color and texture to the surrounding landscape**, creating a camouflage effect that further reduces visibility [7].\n- The Journal of Optometry has stated that \"not even the best of human eyes at a simple glance could see the Great Wall of China from space\" due to anatomical limits on visual acuity [20].\n\n---\n\n## Step 6: Astronaut Evidence \u2014 The Debunking\n\n### Yang Liwei (2003) \u2014 The Most Consequential Testimony\nChina's first astronaut, **Yang Liwei**, orbited Earth 14 times aboard Shenzhou 5 in October 2003. Upon landing, he stated:\n\n> *\"The Earth looked very beautiful from space, but I did not see our Great Wall.\"* [3][8][13]\n\nThis was deeply significant precisely because of the national stakes involved: Yang had every motivation of patriotic pride to report seeing it [1][12]. His failure to do so triggered a national reckoning in China [2][6].\n\nSubsequently, every Shenzhou crew \u2014 including Fei Junlong and Nie Haisheng on Shenzhou 6 in 2005 \u2014 was asked the same question and gave the same negative answer [17].\n\n### Alan Bean (Apollo 12) \u2014 From the Moon\nApollo 12 astronaut Alan Bean stated definitively:\n\n> *\"The only thing you can see from the Moon is a beautiful sphere, mostly white, some blue and patches of yellow, and every once in a while some green vegetation. No man-made object is visible at this scale.\"* [5][7][14]\n\nNeil Armstrong similarly confirmed he could not see any man-made structures from the lunar surface [6][14].\n\n### Jeffrey Hoffman \u2014 From Orbit\nFormer NASA shuttle astronaut Jeffrey Hoffman stated:\n\n> *\"I have spent a lot of time looking at the Earth from space, including numerous flights over China, and I never saw the wall.\"* [6]\n\nHe attributed this to the wall's poor color contrast with the surrounding soil.\n\n### Leroy Chiao (2004) \u2014 The Nuanced Case\nIn November 2004, ISS Commander **Leroy Chiao** photographed central Inner Mongolia with a **180mm telephoto lens** and a digital camera. NASA experts confirmed the image appears to show sections of the Great Wall [7][15]. However:\n- Chiao himself said he **did not see the wall** and was not certain the picture showed it [7][21].\n- China Daily hailed the photo as \"the first photographic evidence\" the Wall could be seen from space \u2014 but this required a telephoto lens, not the naked eye [11][21].\n- NASA's official statement confirms the wall is \"difficult or impossible to see from Earth orbit **without the high-powered lenses** used for this photo\" [15].\n\n### Contradictory Astronaut Claims\nAstronauts **Eugene Cernan** and **Ed Lu** have both said they believed they saw the Wall from low orbit, but qualify this as requiring nearly perfect conditions [3][4][14]. Ed Lu noted: *\"You can see the Great Wall \u2026 but it's less visible than a lot of other objects. And you have to know where to look.\"* [3]. These reports remain outliers against the weight of expert scientific opinion.\n\n---\n\n## Step 7: China's Response \u2014 Textbooks and Official Action\n\nYang Liwei's 2003 statement set off a significant institutional response inside China:\n\n- Chinese **elementary school textbooks** had long included an essay (in the standard sixth-grade language and literature textbook, published by the People's Education Press) quoting a fictional cosmonaut claiming to see both the Great Wall and a Dutch sea embankment from space with the naked eye [2][13].\n- Following Yang's report, **CPPCC delegate Wang Xiang** submitted a formal government proposal asking that school curricula be amended [2][13].\n- A **Ministry of Education official** confirmed the textbook publisher was instructed to stop printing the offending essay [2].\n- The *Beijing Times* reported that schoolbooks would be rewritten [2]. Shanghai's education authority confirmed the text would not appear in its 2005 edition [13].\n- The issue generated public controversy: the publisher's editor argued the story was a \"fairy tale\" rather than a scientific article and should not be held to literal scientific standards [13] \u2014 a rationalization that did not carry the day officially.\n\n---\n\n## Interpretive Notes and Confidence Calibration\n\n| Claim | Confidence | Basis |\n|-------|-----------|-------|\n| Stukeley's 1754 letter is the earliest *known* written source | High | Corroborated by multiple independent secondary sources including Wikipedia [16], BBC Sky at Night [8], Snopes [5], and forum research citing the original archive [9] |\n| Stukeley intended his remark scientifically | Low | Most analysts treat it as hyperbole [20][5]; the letter's context (discussing Hadrian's Wall) supports that reading [10][16] |\n| Norman's book dates to 1895 vs. 1904 | Moderate | Different editions exist; both dates appear in reliable sources \u2014 the 1895 date appears more often for the first edition |\n| Ripley's published in May 1932 | High | Cited specifically in [11]; corroborated broadly [6][12][16] |\n| Halliburton's 1938 exact quote | High | Direct quote corroborated from his book text via Snopes [5] |\n| The claim is physically impossible from the Moon | Very high | Supported by NASA [7][15], physics calculations [20][23], and unanimous Apollo astronaut testimony [5][7] |\n| The claim is physically impossible from low Earth orbit (unaided eye) | High | Supported by NASA [7][15], Journal of Optometry [20], and most astronaut testimony; a small minority of astronauts claim marginal visibility under optimal conditions [3][4] |\n\n---\n\n## Bottom Line for Decision-Makers\n\nThe myth that the Great Wall of China is visible from space with the naked eye has **no scientific foundation** and can be traced through a clear chain of unverified claims \u2014 none of which originated from actual observation:\n\n1. **1754**: Stukeley's rhetorical hyperbole in a private letter about a different wall entirely\n2. **1895/1904**: Norman's book reports it as a *reputation*, not a fact\n3. **1932**: Ripley's gives it mass circulation in speculative framing\n4. **1938**: Halliburton launders it through false attribution to \"astronomers\"\n5. **Post-WWII**: The claim enters textbooks worldwide \u2014 including in China \u2014 as an apparently established fact\n\nThe myth was physically impossible from the moment it was first written down in 1754. The Space Age simply provided the empirical apparatus to prove what geometry always implied. Anyone repeating this claim today is propagating a 270-year-old piece of literary hyperbole that has never had any observational support.",
+  "expected_outcome": "contested - astronauts said yes from low orbit; broadly false from the Moon",
+  "demo_id": "great-wall-space"
+}

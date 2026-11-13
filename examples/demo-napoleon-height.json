@@ -1,0 +1,338 @@
+{
+  "claim": "Napoleon Bonaparte was short",
+  "claim_keywords": [
+    "napoleon",
+    "bonaparte",
+    "short"
+  ],
+  "claim_numbers": [],
+  "research_run_id": "01a1d5c6-12af-7c00-a730-b5ae55aea3cd",
+  "research_status": "completed",
+  "report_markers": [
+    {
+      "marker": "earliest documented",
+      "sentence": "- The **earliest documented use** of the specific phrase \"Napoleon complex\" appears to be a **1928** article complaining about \"the Napoleon complex in countless businessmen,\" where it described ambitious men generally rather than short men specifically [4]."
+    }
+  ],
+  "chain": [
+    {
+      "url": "https://www.history.com/articles/napoleon-complex-short",
+      "link": "live",
+      "wording": "matches",
+      "step": "matches",
+      "quoted": [
+        "One of the world\u2019s most instantly recognizable cultural icons, Napoleon Bonaparte is usually depicted with one hand in his waistcoat\u2014and short and aggressive.",
+        "# Was Napoleon Short?",
+        "His supposedly small stature and fiery temper has inspired the term the Napoleon Complex, a popular belief that short men tend to compensate for their lack of height through domineering behavior and aggression."
+      ],
+      "title": "Was Napoleon Short? Origins of the 'Napoleon Complex' | HISTORY",
+      "published_date": "2019-11-13T17:54:33.000Z",
+      "final_url": "https://www.history.com/articles/napoleon-complex-short"
+    },
+    {
+      "url": "https://www.britannica.com/story/was-napoleon-short",
+      "link": "live",
+      "wording": "matches",
+      "step": "matches",
+      "quoted": [
+        "# Was Napoleon Short?",
+        "Yet, there was one particularly pesky aspect of his legacy that Napoleon could not control: word that he was short.",
+        "In the 21st century, people may not be able to say exactly why Napoleon was so important, but they can usually say that he was short."
+      ],
+      "title": "Was Napoleon Short? | Britannica",
+      "published_date": "2025-06-13T00:00:00Z",
+      "final_url": "https://www.britannica.com/story/was-napoleon-short"
+    },
+    {
+      "url": "https://publicdomainreview.org/essay/little-boney/",
+      "link": "live",
+      "wording": "matches",
+      "step": "matches",
+      "quoted": [
+        "Of all the caricatures of Napoleon Bonaparte, representations of the French emperor as a miniscule megalomaniac continue to haunt the historical imagination to an unparalleled degree.",
+        "Napoleon Bonaparte is beloved by a certain kind of military history buff as the epitome of \u201cgreat man\u201d history: the genius who bends the world to his will.",
+        "There are over two thousand British prints of Napoleon Bonaparte, of which Gillray produced around forty."
+      ],
+      "title": "Little Boney: James Gillray and Napoleon\u2019s Fragile Masculinity\n",
+      "published_date": null,
+      "final_url": "https://publicdomainreview.org/essay/little-boney/"
+    },
+    {
+      "url": "https://www.nationalgeographic.com/history/article/napoleon-complex-height-discrimination-men-history",
+      "link": "live",
+      "wording": "matches",
+      "step": "matches",
+      "quoted": [
+        "Here\u2019s how the so-called \u201cNapoleon complex\u201d came to be\u2014and why historians still disagree about whether its namesake Napoleon Bonaparte was really all that short.",
+        "# Was Napoleon even short?",
+        "Napoleon's supposedly short stature made him the mockery of Europe and inspired a stigma that persists today."
+      ],
+      "title": "Was Napoleon even short? Inside the history of discrimination against short men",
+      "published_date": "2023-11-22T12:00:00.000Z",
+      "final_url": "https://www.nationalgeographic.com/history/article/napoleon-complex-height-discrimination-men-history"
+    },
+    {
+      "url": "https://www.napoleon.org/en/history-of-the-two-empires/articles/was-napoleon-small/",
+      "link": "live",
+      "wording": "matches",
+      "step": "matches",
+      "quoted": [
+        "# Bullet Point #15- Was Napoleon small?",
+        "A hand-coloured etching, published in 1803 shows Napoleon \"Little Boney\" in the hand of King George III",
+        "Nicknamed by his soldiers \u201cle *petit* corporal\u201d or \u201cle *petit* tondu\u201d, Napoleon measured five foot, two inches and three lines tall, equivalent to 1,686 metres."
+      ],
+      "title": "Bullet Point #15- Was Napoleon small? - napoleon.org",
+      "published_date": "2018-07-13T10:10:36+00:00",
+      "final_url": "https://www.napoleon.org/en/history-of-the-two-empires/articles/was-napoleon-small/"
+    },
+    {
+      "url": "https://www.historytoday.com/archive/james-gillray-scourge-napoleon",
+      "link": "live",
+      "wording": "matches",
+      "step": "matches",
+      "quoted": [
+        "He was also the first professional political war cartoonist, and in the same way that the New Zealander David Low, the Dutchman Louis Raemaekers and the Australian Will Dyson later produced some of the most memorable cartoon images of Adolf Hitler, Benito Mussolini, Stalin and Kaiser Wilhelm in the twentieth century, so too did Gillray become the scourge of that other great European dictator of modern times, Napoleon Bonaparte.",
+        "Images of Napoleon Bonaparte first started appearing in France after he quelled the Paris riots in October 1795 (described by Carlyle in the famous phrase 'a whiff of grapeshot') and took control of the French army in Italy.",
+        "He had at first drawn Napoleon normal size, for example in 'Exit Libert\u00e9 \u00e1 la Fran\u00e7ois!' in 1799 just before Bonaparte became First Consul and moved into the Tuileries Palace in Paris."
+      ],
+      "title": "James Gillray: The Scourge of Napoleon",
+      "published_date": "2006-07-17T11:30:00+01:00",
+      "final_url": "https://www.historytoday.com/archive/james-gillray-scourge-napoleon"
+    },
+    {
+      "url": "https://www.historyhit.com/how-did-james-gillray-attack-napoleon-as-the-little-corporal/",
+      "link": "live",
+      "wording": "matches",
+      "step": "matches",
+      "quoted": [
+        "Later that year, Napoleon\u2019s short temper had become notorious after an outburst during a meeting with the British Ambassador Lord Whitworth in March 1803.",
+        "Napoleon Bonaparte",
+        "One of the primary victims of Gillray\u2019s etching knife was Napoleon, who was in no doubt about the potential potency of vindictive cartoons."
+      ],
+      "title": "How Did James Gillray Attack Napoleon as the \u2018Little Corporal\u2019?",
+      "published_date": null,
+      "final_url": "https://www.historyhit.com/how-did-james-gillray-attack-napoleon-as-the-little-corporal/"
+    },
+    {
+      "url": "https://history.howstuffworks.com/history-vs-myth/napoleon-short.htm",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "error": "bot_blocked",
+      "published_date": null
+    },
+    {
+      "url": "https://www.thecollector.com/how-tall-was-napoleon/",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/James_Gillray",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.napoleon.org/en/history-of-the-two-empires/close-up/a-close-up-on-napoleons-death/",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.washingtonpost.com/history/2023/11/22/napoleon-short-myth/",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6247438/",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.cambridge.org/core/books/afterlives-of-eighteenthcentury-fiction/gillrays-gulliver-and-the-1803-invasion-scare/812A34BDA07A7FC0DAC70461D392DF7D",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.gutenberg.org/files/50184/50184-h/50184-h.htm",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://shannonselin.com/2017/09/10-myths-napoleon-bonaparte/",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.lambiek.net/artists/g/gillray_james.htm",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://allthatsinteresting.com/how-tall-was-napoleon",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.medscape.com/viewarticle/550333_2",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.napoleon.org/en/history-of-the-two-empires/articles/napoleons-death-new-findings-from-his-autopsy/",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Napoleon_complex",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.quaritch.com/wp-content/uploads/2015/12/Napoleonic-Caricatures.pdf",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://shannonselin.com/2017/05/napoleons-body/",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.napoleon-series.org/research/napoleon/c_description.html",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.napoleon-series.org/faq/c_tall.html",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.napoleon-series.org/military-info/organization/France/Guard/Infantry/Grenadiers/c_grognards.html",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/napoleon-complex",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.historytoday.com/archive/betsy-balcombe-and-napoleon",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.napoleon-series.org/military-info/virtual/c_lodi.html",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://rsc.byu.edu/1820/le-petit-caporal-napoleon-bonaparte",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://www.britannica.com/event/Battle-of-Lodi",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    },
+    {
+      "url": "https://historycollection.com/myths-about-napoleon-bonaparte-height-and-costume/",
+      "link": "dead",
+      "wording": null,
+      "step": "no_source",
+      "quoted": [],
+      "note": "not verified (beyond top-N)"
+    }
+  ],
+  "earliest_verifiable_source": {
+    "url": "https://www.historytoday.com/archive/james-gillray-scourge-napoleon",
+    "link": "live",
+    "wording": "matches",
+    "step": "matches",
+    "quoted": [
+      "He was also the first professional political war cartoonist, and in the same way that the New Zealander David Low, the Dutchman Louis Raemaekers and the Australian Will Dyson later produced some of the most memorable cartoon images of Adolf Hitler, Benito Mussolini, Stalin and Kaiser Wilhelm in the twentieth century, so too did Gillray become the scourge of that other great European dictator of modern times, Napoleon Bonaparte.",
+      "Images of Napoleon Bonaparte first started appearing in France after he quelled the Paris riots in October 1795 (described by Carlyle in the famous phrase 'a whiff of grapeshot') and took control of the French army in Italy.",
+      "He had at first drawn Napoleon normal size, for example in 'Exit Libert\u00e9 \u00e1 la Fran\u00e7ois!' in 1799 just before Bonaparte became First Consul and moved into the Tuileries Palace in Paris."
+    ],
+    "title": "James Gillray: The Scourge of Napoleon",
+    "published_date": "2006-07-17T11:30:00+01:00",
+    "final_url": "https://www.historytoday.com/archive/james-gillray-scourge-napoleon"
+  },
+  "trace_verdict": "traced",
+  "steps_shown": 32,
+  "citations_total": 32,
+  "report": "# The \"Napoleon Was Short\" Myth: Origin Tracing and Source Analysis\n\n## Executive Summary\n\nThe claim that Napoleon Bonaparte was short is one of history's most durable myths, and it is substantially false by the standards of his own era. Napoleon stood approximately 5 feet 2 inches in pre-metric French units \u2014 equivalent to roughly 5 feet 6\u20137 inches (168\u2013170 cm) in modern Imperial measurement \u2014 placing him at or slightly above average for a French man of the early 19th century [1][2][25]. The myth's traceable origin runs through three converging streams: (1) a unit-conversion error that turned a French measurement into a spuriously short English one; (2) the affectionate nickname *le petit caporal*, misread as a physical description; and (3) \u2014 most powerfully and most precisely dateable \u2014 a British propaganda campaign waged largely through the cartoons of James Gillray, whose character \"Little Boney\" was first introduced on **1 January 1803**. The myth then calcified into the 20th-century psychological concept of the \"Napoleon Complex,\" which postdates its namesake by roughly a century. Each step in that chain is reconstructed below.\n\n---\n\n## 1. The Actual Historical Evidence on Napoleon's Height\n\n### What Contemporary Sources Recorded\n\nThe most precise contemporary measurement comes from Napoleon's own physicians and his autopsy report. His valet Constant, General Gourgaud, and his personal physician Francesco Antommarchi all recorded his height as \"just over 5 pieds 2 pouces\" [1]. The autopsy, conducted on 6 May 1821, recorded his height as **168 cm** [19] \u2014 a figure also consistent with the independent estimate of Dr. Corvisart (1802), who described Napoleon as \"about five feet two inches by French measure [5 feet 6 inches, English measure]\" [24]. Joseph Farington in 1802 estimated him at \"no more than 5 feet 6\" in English measure, while the painter Benjamin West placed him at 5 feet 7 inches [24].\n\nThe French foot (*pied*) was 1.0679 English feet, and the French inch (*pouce*) measured approximately 2.70\u20132.71 cm versus the British inch at 2.54 cm [2][8][25]. This means the recorded \"5 pieds 2 pouces\" converts to approximately **5 feet 6\u20137 inches (168\u2013170 cm)** in modern Imperial measure [1][2][16][25][27]. At that height, Napoleon was **average or slightly above average** for a French man of his time: the average Frenchman stood roughly 5 feet 5 inches, and infantry conscripts typically measured between 5 feet 5 inches and 5 feet 7 inches [5][8][2].\n\nSome historians dissent on the margins. Historian Martyn Lyons (1994) wrote that Napoleon \"was a short man, even by the standards of the day,\" and David Bell (2019) placed him at 5 feet 4\u20135 inches, roughly an inch or two below average adult male height [9]. These minority assessments show that some scholarly debate persists, but the dominant view \u2014 grounded in autopsy data and physician records \u2014 is that Napoleon was not exceptionally short [2][9][19].\n\n### What Contemporary Observers Said\n\nFirst-hand descriptions are mixed but illuminating. During the Italian campaign (1796\u201397), one sergeant described Napoleon as \"small, skinny, very pale, with big black eyes and sunken cheeks,\" and General Andr\u00e9 Mass\u00e9na called him \"small\" with a \"puny face\" [9]. Denis Davidov, meeting him at Tilsit in 1807, estimated him as \"just over five feet tall\" in French measure and \"of short stature\" [24]. By 1815, British observers at St. Helena described him as corpulent and pot-bellied, with one officer noting \"his person corpulent, his neck short\" [24]. The discrepancy between earlier descriptions (slight and small-seeming) and later ones (stocky and average) reflects both genuine physical change \u2014 Napoleon gained significant weight after 1810 \u2014 and the subjective nature of impression-based height estimates.\n\nCritically, Hyde de Neuville, meeting Napoleon in 1799, initially thought him short, but recorded: \"I lost all my assurance under the fire of that questioning eye. To me he had suddenly grown taller by a hundred cubits\" [4]. This kind of testimony suggests Napoleon's presence and bearing routinely confounded straightforward height perception.\n\n---\n\n## 2. The Earliest Traceable Source of the \"Short Napoleon\" Myth \u2014 Step by Step\n\nThe myth has three distinct tributary sources that merged into a single powerful stream. Here they are traced in chronological order.\n\n### Step 1: The Unit-Conversion Error (Pre-existing structural condition, not a single moment)\n\nThe measurement confusion was not invented by any one person \u2014 it was a structural property of the measurement systems of the era. French and English measurements shared the same terminology (*pied/foot*, *pouce/inch*) but differed in length by approximately 6\u20137% [27]. When Napoleon's French physicians recorded his height as \"5 pieds 2 pouces,\" English-speaking readers \u2014 including journalists, soldiers, and later historians \u2014 naturally read this as \"5 feet 2 inches\" in the Imperial system, producing a figure roughly 4\u20135 inches shorter than reality [2][8][18][25]. No single person \"invented\" this error; it arose from the collision of two measurement systems during and after the Napoleonic Wars. Historians at the napoleon-series.org FAQ explicitly document the conversion: 5 feet 2 inches French = approximately 5 feet 6 inches English = approximately 168 cm [25].\n\nThe error was **compounded** by Napoleon's death occurring 28 years after France adopted the metric system in 1793, meaning his St. Helena measurements were taken in an ambiguous transitional context [21].\n\n### Step 2: *Le Petit Caporal* \u2014 The Affectionate Nickname Misread as a Physical Description (May 1796)\n\nThe nickname *le petit caporal* (\"the little corporal\") was given to Napoleon by his troops following the Battle of Lodi on **10 May 1796**, in recognition of his personal courage in helping man the artillery during the assault on the bridge over the Adda [29][31]. The nickname was an expression of affectionate comradeship \u2014 soldiers calling their general by an enlisted man's rank to signal intimacy and admiration \u2014 not a physical description [2][8][30]. His soldiers also called him *le petit tondu* (\"the little crop-head\") [5].\n\nThe word *petit* in French can function as an affectionate diminutive rather than a strictly dimensional one [27]. Encyclopedia.com notes that the translation of *le petit caporal* as \"little corporal\" is a **mistranslation** insofar as *petit* in this context indicates affection rather than dimension [27]. Nevertheless, the English word \"little\" in the nickname's translation primed English-speaking audiences to associate Napoleon with small physical stature, and British propagandists \u2014 above all Gillray \u2014 exploited this directly in labeling their caricatures [7][17].\n\n### Step 3: James Gillray and the Creation of \"Little Boney\" \u2014 The Primary and Most Dateable Origin (1803)\n\nThis is the most precisely traceable and historically impactful step.\n\n**Before 1803:** In Gillray's first caricature of Napoleon \u2014 *Buonaparte hearing of Nelson's Victory* (1798) \u2014 Napoleon is depicted as arrogant and bloodthirsty but **at normal stature** [3]. The first English caricature of Napoleon overall is credited to Isaac Cruikshank, dated **12 March 1797** [6], and early British prints (including one engraving from 1 February 1798 in the Quaritch catalogue) also depicted him at normal size [22]. The shrinking began as British anxiety about French invasion intensified.\n\n**The pivot point \u2014 1 January 1803:** Gillray created the character of \"Little Boney\" \u2014 first named as such \u2014 in the cartoon ***German Nonchalance, or the Vexation of Little Boney***, published on **1 January 1803** [6][17]. This print established the character name and the diminutive framing. The timing was not accidental: the Peace of Amiens, signed in 1802, was already breaking down, and Britain was bracing for a French invasion [3][12].\n\n**The defining cartoon \u2014 May 1803:** The character was dramatically expanded and popularized in ***Maniac Raving's-or-Little Boney in a Strong Fit***, published in **May 1803** [1][2][7][16][18]. This cartoon satirized a real diplomatic incident: on **14 March 1803**, Napoleon had publicly berated the British ambassador Lord Whitworth in a rage-filled tirade before hundreds of European dignitaries at the Tuileries palace in Paris [1][18]. Historian Tim Clayton, described as an expert on Napoleonic-era propaganda, specifically identifies this cartoon as the moment the \"tiny Napoleon\" trope \"began in earnest,\" noting that prior to it, Napoleon \"was of normal stature\" in caricature [18].\n\nGillray's cartoon depicted Napoleon as a small, childlike figure in the grip of a tantrum \u2014 a physically tiny man compensating for size through rage [2][7]. The character design included an oversized cocked hat with a tricolour plume, a huge scabbard, and clothes too large for his body, all mocking the gap between his worldly ambitions and his physical smallness [7].\n\n**Gillray's own sources for the idea:** Gillray never saw Napoleon in person [4][7]. His visual sources were the portrait prints and engravings circulating in London from 1796 onward [17], combined with reports of Napoleon's behavior \u2014 including the diplomatic tantrum \u2014 that cast him as emotionally volatile. The \"smallness\" appears to have been a deliberate rhetorical choice, not an observed fact: art historian Constance McPhee has written that British cartoonists like Gillray \"manipulated size and dress to symbolically deflate a threatening military opponent, and produced an image that communicates so effortlessly, we often forget it was invented\" [4]. The image also served a class-based purpose: Gillray was mocking Napoleon's origins as minor Corsican nobility, using physical smallness as a proxy for social insignificance in a meritocratic order the British elite found threatening [3].\n\n**The proliferation \u2014 1803\u20131805:** Once the \"Little Boney\" character was established, it spread rapidly:\n- In the same year (1803), other cartoonists produced *Britannia Reprimanding a Naughty Boy!*, *John Bull Teazed by an Earwig*, and *The King's Dwarf Plays Gulliver a Trick* [3].\n- Gillray's ***The King of Brobdingnag and Gulliver*** (26 June 1803 per [17], or 1804 per [3]) depicted Napoleon as a six-inch Lilliputian resting on King George III's palm, explicitly invoking Swift's *Gulliver's Travels* [3][4][17].\n- In ***The Plumb-Pudding in Danger*** (26 February 1805), Gillray drew Napoleon at roughly half the height of British Prime Minister William Pitt the Younger \u2014 now described by Martin Rowson as \"probably the most famous political cartoon of all time\" [1][6][7][10][17].\n- Isaac Cruikshank's *The Empress's Wish or Boney Puzzled!!* depicted Napoleon at roughly half the height of his wife and troops, and \"a wee Bonaparte became the standard for representing the emperor in English newspapers\" [2].\n- The imagery was so dominant that an anonymous 1811 cartoon, *Bony's Visions or a Great Little Man's Night Comforts*, listed \"Gilray's Caricatures\" among Napoleon's most fearful horrors [1].\n\nGillray produced only about **forty** of the more than **2,000** British prints of Napoleon produced over fifteen years [1][3][6], but his were by far the most influential. The caricatures circulated not only in Britain but throughout Europe [10][17]. Napoleon's own spies brought them to his attention; he reportedly considered them a \"deliberate provocation,\" demanded the British government censor them (the ministers ignored him), and ordered counter-caricatures in return, writing to his Minister of Police in 1805 to have caricatures made against the English [6][18]. At the end of his life, Napoleon allegedly said Gillray's work \"did more than all the armies of Europe to bring me down\" [1][10][18].\n\n---\n\n## 3. The Role of Napoleon's Guard in Sustaining the Perception\n\nA fourth, reinforcing factor was structural: Napoleon was habitually surrounded in public by soldiers of the Imperial Guard, specifically the Grenadiers of the Guard (*Grognards*), whose minimum height requirement for entry was **5 feet 10 inches to 6 feet**, with additional requirements of at least 25 years of age and service in three campaigns [26]. These requirements were not rigidly enforced in every case [26], but the effect was real: observers who saw Napoleon standing beside his guardsmen \u2014 who also wore tall bearskin hats that added further visual height \u2014 consistently perceived him as short by contrast [4][7][8][17]. Napoleon's brothers were also reportedly taller, as were many of his marshals and his wife Josephine [8]. This environmental context transformed an average-height man into an apparently small one through pure visual comparison.\n\n---\n\n## 4. The \"Napoleon Complex\": How the Myth Entered 20th-Century Psychology\n\nThe term \"Napoleon Complex\" does not originate with Gillray or the Napoleonic Wars period. Its emergence is separately traceable:\n\n- **Alfred Adler** coined the concept of the \"inferiority complex\" in the **1920s**, initially describing children driven by small size and social insignificance to strive for power over their environment [4]. Adler, however, did not invent the specific phrase \"Napoleon complex\" and did not use Napoleon to illustrate overcompensation [27].\n- The **earliest documented use** of the specific phrase \"Napoleon complex\" appears to be a **1928** article complaining about \"the Napoleon complex in countless businessmen,\" where it described ambitious men generally rather than short men specifically [4].\n- **Merriam-Webster** dates the term to **1924** in its earliest recorded usage [8] \u2014 though other sources describe the origins as \"unclear\" [8].\n- The term subsequently narrowed in popular use to describe short men with domineering personalities, fusing Adler's inferiority complex theory with the already-established cultural image of an aggressive, tiny Napoleon [4][13].\n- The \"Napoleon Complex\" is **not a recognized personality disorder** in the DSM and is seldom granted an entry in psychology encyclopedias; it is widely described as a pseudoscientific term [27].\n- Empirical research is mixed: a 2007 University of Central Lancashire study found short men were *less* likely to lose their temper than average-height men [21]; a 2018 study by Van Vugt's team found some evidence of indirect aggression in shorter men against taller opponents in competitive laboratory games [21]; and a 2022 study found that antagonistic traits were more strongly associated with *dissatisfaction about height* than with objective height itself [21].\n\n---\n\n## 5. Summary: The Chain of Origin, Step by Step\n\n| Step | Date / Period | Actor / Mechanism | What It Contributed |\n|---|---|---|---|\n| **1** | Pre-1800s (structural) | French vs. English inch discrepancy (pouce \u2260 inch; 2.71 cm vs. 2.54 cm) | Turned \"5 pieds 2 pouces\" into an apparent 5'2\" in English, ~4\u20135 inches short of reality [2][8][25][27] |\n| **2** | 10 May 1796 | Battle of Lodi; troops nickname Napoleon *le petit caporal* | Affectionate term misread in English as \"little corporal,\" priming shortness association [29][31][27] |\n| **3** | 1 January 1803 | James Gillray, *German Nonchalance, or the Vexation of Little Boney* | First naming of the \"Little Boney\" character in British caricature [6][17] |\n| **4** | May 1803 | James Gillray, *Maniac Raving's-or-Little Boney in a Strong Fit* | The definitive \"tiny Napoleon\" caricature, triggered by the real Whitworth diplomatic incident of 14 March 1803 [1][2][7][18] |\n| **5** | 1803\u20131805 | Gillray, Cruikshank, and dozens of imitators | Rapid proliferation; \"wee Bonaparte\" becomes the British press standard [2][3][22] |\n| **6** | Ongoing during empire | Napoleon surrounded by Old Guard (minimum 5'10\"\u20136') in public | Visual contrast reinforced perception of smallness [4][7][8][26] |\n| **7** | 1924 / 1928 | Unknown author (Merriam-Webster 1924); 1928 press article | \"Napoleon Complex\" term coined and gradually narrowed to mean short-man aggression [4][8] |\n| **8** | 20th\u201321st century | Pop psychology, media, films | Myth calcified as a cultural \"fact,\" despite scholarly consensus otherwise [3][21][27] |\n\n---\n\n## 6. Confidence Assessment and Remaining Uncertainties\n\n**High confidence:** Napoleon's measured height of approximately 168 cm (autopsy record, physician accounts, contemporary estimates) [1][2][19][24][25]; Gillray's January 1803 cartoon as the first \"Little Boney\" naming [6][17]; the French-English inch discrepancy as a documented mechanism [2][8][25][27]; the Battle of Lodi origin of *le petit caporal* [29][31].\n\n**Medium confidence:** The claim that Napoleon himself reportedly said Gillray \"did more than all the armies of Europe to bring me down\" \u2014 this is widely cited [1][7][10][18] but described as alleged and unverified as a primary document [10]. The 1924 Merriam-Webster date for \"Napoleon Complex\" is from a dictionary dating tool and may reflect first recorded print use rather than first coinage [8].\n\n**Lower confidence / genuine dispute:** Whether Napoleon was truly average height or slightly below average. A minority of historians (Lyons 1994, Bell 2019) argue he was an inch or two below average even by period standards [9]. The debate turns partly on which comparison population is chosen and how the measurement conversion is handled.\n\n**Missing primary evidence:** No surviving primary document from Gillray himself explains why he chose to make Napoleon short in January 1803, beyond the circumstantial evidence of the invasion scare and the Whitworth incident. We can reconstruct his likely sources (circulating portrait prints, diplomatic reports) but cannot cite a Gillray letter or diary entry making the design decision explicit.\n\n---\n\n## Key Takeaway for Decision-Makers\n\nThe \"Napoleon was short\" claim originated not from any single fact about Napoleon's body, but from the convergence of a measurement translation error, a misread affectionate nickname, and \u2014 most decisively \u2014 a deliberate British propaganda campaign by James Gillray beginning **1 January 1803**, which was explicitly designed to \"cut him down to size\" by portraying a threatening military adversary as a ridiculous, ranting child [3][6]. The myth then self-reinforced through the visual contrast with his tall guard, spread via hundreds of imitator cartoons across Europe, and was finally institutionalized in 20th-century pop psychology under the label \"Napoleon Complex\" \u2014 a term coined roughly a century after Napoleon's death and not recognized as a valid clinical construct [27]. The historical Napoleon was, by the best available evidence, a man of average height for his time and place.",
+  "expected_outcome": "wrong - average height for his era; British propaganda + French/British inch units",
+  "demo_id": "napoleon-height"
+}

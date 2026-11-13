@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Source Hunter - trace claims to the original source",
+  "version": "1.0.0",
+  "description": "Highlight a number, claim or quote on any page, click once: TinyResearch traces it back to the original source with every step verified live.",
+  "permissions": ["activeTab", "scripting", "storage"],
+  "host_permissions": [
+    "https://agent.tinyfish.ai/*",
+    "https://api.fetch.tinyfish.ai/*",
+    "https://api.search.tinyfish.ai/*"
+  ],
+  "background": { "service_worker": "background.js" },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Source Hunter"
+  },
+  "options_ui": { "page": "options.html", "open_in_tab": true },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "css": ["content.css"],
+      "run_at": "document_idle"
+    }
+  ]
+}
